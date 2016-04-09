@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Erarbeitung eines Grünbuchs zur Vorbereitung der Bundesratsenquete "Digitaler Wandel und Politik" im November 2015 und als Grundlage für weitere politische Diskussionen und Entscheidungen.'
-datePublished: '2016-04-09T23:40:49.916Z'
-dateModified: '2016-04-09T23:40:49.244Z'
+datePublished: '2016-04-09T23:41:30.154Z'
+dateModified: '2016-04-09T23:41:13.161Z'
 title: Digitaler Wandel und Politik
 author: []
 sourcePath: _posts/2016-04-09-digitaler-wandel-und-politik.md
@@ -22,6 +22,8 @@ url: digitaler-wandel-und-politik/index.html
 _type: Article
 
 ---
+##### 
+
 ##### Erarbeitung eines Grünbuchs zur Vorbereitung der Bundesratsenquete "Digitaler Wandel und Politik" im November 2015 und als Grundlage für weitere politische Diskussionen und Entscheidungen.
 
 ##### _Ausgangspunkt: _Mit der zunehmenden Digitalisierung bekommen Menschen den Zugriff auf die Produktion und den Vertrieb von Produkten. Was mit dem Desktop‐Publishing in den 1980‐ern begonnen hat, hat sich mit dem Internet zu einer Neuen Wirtschaft immaterieller Produkte und Serviceleistungen weiterentwickelt. Globales Focal Center dieser Entwicklung war und ist die Region Silicon Valley. Trotz der rapiden Entwicklung wird derzeit nur ein geringer Teil der Wertschöpfung schon „im Netz" erzielt. 10 Prozent des Handels werden online abgewickelt. Jetzt greift die Digitalisierung auf die Produktion realer Güter über und ermöglicht eine neue Industrie. Gleichzeitig entwickeln sich neue Wertschöpfungsketten, ein Internet der Dinge und neue Formen der Logistik. Ob diese Phase von Europa und Österreich besser genutzt werden kann, ist derzeit noch offen und für das zukünftige Wachstum von Bedeutung. 
@@ -69,5 +71,7 @@ Forderungen an die Bundesregierung._
 2015, Projektabschluss_
 
 [][0]
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5fcbf968fe7de456c8594cce98c96ba9/passthrough.jpg?height=600&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F0c1b4cbf-d226-4239-9088-06701d128f63.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0c1b4cbf-d226-4239-9088-06701d128f63.jpg)
 
 [0]: http://www.besserentscheiden.at/#!digitaler-wandel-und-politik/s5tlb

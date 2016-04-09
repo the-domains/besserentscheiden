@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[#besserentscheiden]]></title>
         <description><![CDATA[#besserentscheiden]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/besserentscheiden/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Apr 2016 12:51:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 09 Apr 2016 13:06:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/besserentscheiden/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Wer wir sind]]></title>
-            <description><![CDATA[<article><h1>Wer wir sind</h1><p>Ihre offene Plattform für bessere politische Lösungen. Von der Projektidee bis zu den Ergebnissen. Beteiligen Sie sich, wir brauchen Ihr Know-how.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/719e9bb107756687cf9a240764af740bdd1ff6dd.gif"></article>]]></description>
-            <link>undefined6a2e59d2-3853-42b1-9bfd-517fa9414899/index.html</link>
+            <description><![CDATA[<article><h1>Wer wir sind</h1><p>Ihre offene Plattform für bessere politische Lösungen. Von der Projektidee bis zu den Ergebnissen. Beteiligen Sie sich, wir brauchen Ihr Know-how.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/42f2ad21250a14f6efa2bfee37c02611ec3c4432.gif"></article>]]></description>
+            <link>https://thegrid.ai/besserentscheiden/6a2e59d2-3853-42b1-9bfd-517fa9414899/index.html</link>
             <guid isPermaLink="false">6a2e59d2-3853-42b1-9bfd-517fa9414899</guid>
-            <pubDate>Sat, 09 Apr 2016 12:51:36 GMT</pubDate>
+            <pubDate>Sat, 09 Apr 2016 13:05:47 GMT</pubDate>
         </item>
     </channel>
 </rss>

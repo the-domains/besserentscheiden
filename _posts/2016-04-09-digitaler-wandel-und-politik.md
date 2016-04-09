@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Erarbeitung eines Grünbuchs zur Vorbereitung der Bundesratsenquete "Digitaler Wandel und Politik" im November 2015 und als Grundlage für weitere politische Diskussionen und Entscheidungen.'
-datePublished: '2016-04-09T23:41:30.154Z'
-dateModified: '2016-04-09T23:41:13.161Z'
+datePublished: '2016-04-09T23:43:10.395Z'
+dateModified: '2016-04-09T23:42:53.614Z'
 title: Digitaler Wandel und Politik
 author: []
 sourcePath: _posts/2016-04-09-digitaler-wandel-und-politik.md
@@ -22,7 +22,8 @@ url: digitaler-wandel-und-politik/index.html
 _type: Article
 
 ---
-##### 
+# Digitaler Wandel und Politik
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5fcbf968fe7de456c8594cce98c96ba9/passthrough.jpg?height=600&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F0c1b4cbf-d226-4239-9088-06701d128f63.jpg)
 
 ##### Erarbeitung eines Grünbuchs zur Vorbereitung der Bundesratsenquete "Digitaler Wandel und Politik" im November 2015 und als Grundlage für weitere politische Diskussionen und Entscheidungen.
 
@@ -71,7 +72,5 @@ Forderungen an die Bundesregierung._
 2015, Projektabschluss_
 
 [][0]
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5fcbf968fe7de456c8594cce98c96ba9/passthrough.jpg?height=600&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F0c1b4cbf-d226-4239-9088-06701d128f63.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0c1b4cbf-d226-4239-9088-06701d128f63.jpg)
 
 [0]: http://www.besserentscheiden.at/#!digitaler-wandel-und-politik/s5tlb

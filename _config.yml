@@ -1,0 +1,28 @@
+name: '#besserentscheiden'
+favicon: null
+layout_spectrum: 0.7264620603527874
+typography_spectrum: 0.18037174246273935
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.07058924902230501
+  lightness: 0.7360857052262872
+  saturation: 0.6136529000941664
+  rhythmicContrast: 0.26622092397883534
+purpose: []

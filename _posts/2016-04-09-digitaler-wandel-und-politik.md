@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Erarbeitung eines Grünbuchs zur Vorbereitung der Bundesratsenquete "Digitaler Wandel und Politik" im November 2015 und als Grundlage für weitere politische Diskussionen und Entscheidungen.'
-datePublished: '2016-04-09T23:43:10.395Z'
-dateModified: '2016-04-09T23:42:53.614Z'
+datePublished: '2016-04-09T23:52:44.482Z'
+dateModified: '2016-04-09T23:52:12.744Z'
 title: Digitaler Wandel und Politik
 author: []
 sourcePath: _posts/2016-04-09-digitaler-wandel-und-politik.md
@@ -33,7 +33,9 @@ _type: Article
 
 ##### _Ergebnisse: _Das Grünbuch hier als PDF lesen und drucken. Das Grünbuch als EBook lesen .mobi (Kindle), .epub (Apple iBooks), .azw3\. Bei der parlamentarischen Enquete am 18\. November 2015 standen das Thema "Digitaler Wandel und Politik" und das Grünbuch zur Diskussion. Die Diskussionsbeiträge sind im Protokoll schriftlich und als Video auf Youtube festgehalten. Auf Basis der parlamentarischen Enquete hat der Zukunftsausschuss des Bundesrates eine Entschließung verabschiedet und die Bundesregierung aufgefordert das Grünbuch in die Regierungsarbeit einfließen zu lassen.
 
-###### _März
+## Projektverlauf
+
+## _März
 2015, Entwicklug der Projektidee_
 
 ###### _1\.

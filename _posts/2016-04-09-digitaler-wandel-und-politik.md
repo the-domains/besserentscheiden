@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Erarbeitung eines Grünbuchs zur Vorbereitung der Bundesratsenquete "Digitaler Wandel und Politik" im November 2015 und als Grundlage für weitere politische Diskussionen und Entscheidungen.'
-datePublished: '2016-04-09T22:25:18.171Z'
-dateModified: '2016-04-09T22:24:02.574Z'
+datePublished: '2016-04-09T22:33:39.764Z'
+dateModified: '2016-04-09T22:33:11.987Z'
 title: Digitaler Wandel und Politik
 author: []
 sourcePath: _posts/2016-04-09-digitaler-wandel-und-politik.md
@@ -25,6 +25,7 @@ _type: Article
 # Digitaler Wandel und Politik
 
 ##### Erarbeitung eines Grünbuchs zur Vorbereitung der Bundesratsenquete "Digitaler Wandel und Politik" im November 2015 und als Grundlage für weitere politische Diskussionen und Entscheidungen.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e1d7957-010e-4097-a50f-1942c4be7060.jpg)
 
 ##### _Die Projektidee: _Erarbeitung eines Grünbuchs zur Vorbereitung der Bundesratsenquete "Digitaler Wandel und Politik" im November 2015\. Wesentlich ist die vielfältige Einbindung verfügbarer Expertise. Als Ergebnis soll Kompetenz zum Thema Digitalisierung aufgebaut und eine Grünbuch für die formale Eingabe an den Bundesrat erarbeitet werden.
 
@@ -73,5 +74,6 @@ Forderungen an die Bundesregierung._
 2015, Projektabschluss_
 
 [][0]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ebeb19c-013c-4c3f-a933-314fcbeeebb6.jpg)
 
 [0]: http://www.besserentscheiden.at/#!digitaler-wandel-und-politik/s5tlb

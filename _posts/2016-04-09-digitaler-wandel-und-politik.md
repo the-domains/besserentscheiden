@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Erarbeitung eines Grünbuchs zur Vorbereitung der Bundesratsenquete "Digitaler Wandel und Politik" im November 2015 und als Grundlage für weitere politische Diskussionen und Entscheidungen.'
-datePublished: '2016-04-09T23:22:31.338Z'
-dateModified: '2016-04-09T23:22:25.054Z'
+datePublished: '2016-04-09T23:40:49.916Z'
+dateModified: '2016-04-09T23:40:49.244Z'
 title: Digitaler Wandel und Politik
 author: []
 sourcePath: _posts/2016-04-09-digitaler-wandel-und-politik.md
@@ -23,7 +23,6 @@ _type: Article
 
 ---
 ##### Erarbeitung eines Grünbuchs zur Vorbereitung der Bundesratsenquete "Digitaler Wandel und Politik" im November 2015 und als Grundlage für weitere politische Diskussionen und Entscheidungen.
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9e502223753dcfed18c03c34dfe63fb5/passthrough.jpg?height=499&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Ffc81898ccb24a3b4dfa73fa4ab21031aeed9f647.jpg&width=750)
 
 ##### _Ausgangspunkt: _Mit der zunehmenden Digitalisierung bekommen Menschen den Zugriff auf die Produktion und den Vertrieb von Produkten. Was mit dem Desktop‐Publishing in den 1980‐ern begonnen hat, hat sich mit dem Internet zu einer Neuen Wirtschaft immaterieller Produkte und Serviceleistungen weiterentwickelt. Globales Focal Center dieser Entwicklung war und ist die Region Silicon Valley. Trotz der rapiden Entwicklung wird derzeit nur ein geringer Teil der Wertschöpfung schon „im Netz" erzielt. 10 Prozent des Handels werden online abgewickelt. Jetzt greift die Digitalisierung auf die Produktion realer Güter über und ermöglicht eine neue Industrie. Gleichzeitig entwickeln sich neue Wertschöpfungsketten, ein Internet der Dinge und neue Formen der Logistik. Ob diese Phase von Europa und Österreich besser genutzt werden kann, ist derzeit noch offen und für das zukünftige Wachstum von Bedeutung. 
 

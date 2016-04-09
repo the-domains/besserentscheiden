@@ -3,12 +3,12 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "Die Projektidee: Erarbeitung eines Grünbuchs zur Vorbereitung der Bundesratsenquete\_\"Digitaler Wandel und Politik\"\_im November 2015.\_Wesentlich ist die vielfältige Einbindung verfügbarer Expertise. Als Ergebnis soll Kompetenz zum Thema Digitalisierung aufgebaut und eine Grünbuch für die formale Eingabe an den Bundesrat erarbeitet werden."
-datePublished: '2016-04-09T15:00:22.433Z'
-dateModified: '2016-04-09T15:00:19.071Z'
-title: 'Digitaler Wandel und Politik '
+datePublished: '2016-04-09T15:43:13.271Z'
+dateModified: '2016-04-09T15:43:08.346Z'
+title: Digitaler Wandel und Politik
 author: []
 sourcePath: _posts/2016-04-09-digitaler-wandel-und-politik.md
 published: true
@@ -22,6 +22,8 @@ url: digitaler-wandel-und-politik/index.html
 _type: Article
 
 ---
+# Digitaler Wandel und Politik
+
 **Die Projektidee**: Erarbeitung eines Grünbuchs zur Vorbereitung der Bundesratsenquete "Digitaler Wandel und Politik" im November 2015\. Wesentlich ist die vielfältige Einbindung verfügbarer Expertise. Als Ergebnis soll Kompetenz zum Thema Digitalisierung aufgebaut und eine Grünbuch für die formale Eingabe an den Bundesrat erarbeitet werden.
 
 ###### **Ausgangspunkt**: Mit der zunehmenden Digitalisierung bekommen Menschen den Zugriff auf die Produktion und den Vertrieb von Produkten. Was mit dem Desktop‐Publishing in den 1980‐ern begonnen hat, hat sich mit dem Internet zu einer Neuen Wirtschaft immaterieller Produkte und Serviceleistungen weiterentwickelt. Globales Focal Center dieser Entwicklung war und ist die Region Silicon Valley. Trotz der rapiden Entwicklung wird derzeit nur ein geringer Teil der Wertschöpfung schon „im Netz" erzielt. 10 Prozent des Handels werden online abgewickelt. Jetzt greift die Digitalisierung auf die Produktion realer Güter über und ermöglicht eine neue Industrie. Gleichzeitig entwickeln sich neue Wertschöpfungsketten, ein Internet der Dinge und neue Formen der Logistik. Ob diese Phase von Europa und Österreich besser genutzt werden kann, ist derzeit noch offen und für das zukünftige Wachstum von Bedeutung.

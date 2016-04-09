@@ -2,6 +2,7 @@ name: '#besserentscheiden'
 favicon: null
 layout_spectrum: 0.99629
 typography_spectrum: 0.18037174246273935
+title: '#besserentscheiden'
 cta:
   domain: null
   bucket: null

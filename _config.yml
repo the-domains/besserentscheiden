@@ -1,6 +1,6 @@
 name: '#besserentscheiden'
 favicon: null
-layout_spectrum: 0.00371
+layout_spectrum: 0.24876
 typography_spectrum: 0.49629
 title: '#besserentscheiden'
 cta:
@@ -22,8 +22,8 @@ color:
     - '#ffffff'
     - '#d9947e'
     - '#4a4d50'
-  brandStrength: 0.5
-  lightness: 0.5
-  saturation: 0.5
+  brandStrength: 0
+  lightness: 1
+  saturation: 0
   rhythmicContrast: 1
 purpose: []

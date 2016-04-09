@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Die Projektidee: Erarbeitung eines Grünbuchs zur Vorbereitung der Bundesratsenquete\_\"Digitaler Wandel und Politik\"\_im November 2015.\_Wesentlich ist die vielfältige Einbindung verfügbarer Expertise. Als Ergebnis soll Kompetenz zum Thema Digitalisierung aufgebaut und eine Grünbuch für die formale Eingabe an den Bundesrat erarbeitet werden."
-datePublished: '2016-04-09T15:43:13.271Z'
-dateModified: '2016-04-09T15:43:08.346Z'
+datePublished: '2016-04-09T16:11:18.351Z'
+dateModified: '2016-04-09T16:10:19.040Z'
 title: Digitaler Wandel und Politik
 author: []
 sourcePath: _posts/2016-04-09-digitaler-wandel-und-politik.md
@@ -23,6 +23,8 @@ _type: Article
 
 ---
 # Digitaler Wandel und Politik
+
+##### Projekt: Erarbeitung eines Grünbuchs zur Vorbereitung der Bundesratsenquete "Digitaler Wandel und Politik" im November 2015 und als Grundlage für weitere politische Diskussionen und Entscheidungen.
 
 **Die Projektidee**: Erarbeitung eines Grünbuchs zur Vorbereitung der Bundesratsenquete "Digitaler Wandel und Politik" im November 2015\. Wesentlich ist die vielfältige Einbindung verfügbarer Expertise. Als Ergebnis soll Kompetenz zum Thema Digitalisierung aufgebaut und eine Grünbuch für die formale Eingabe an den Bundesrat erarbeitet werden.
 

@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Erarbeitung eines Grünbuchs zur Vorbereitung der Bundesratsenquete \"Digitaler Wandel und Politik\" im November 2015 und als Grundlage für weitere politische Diskussionen und Entscheidungen.\_"
-datePublished: '2016-04-10T21:01:23.253Z'
-dateModified: '2016-04-10T21:01:22.421Z'
+datePublished: '2016-04-10T21:01:31.593Z'
+dateModified: '2016-04-10T21:01:30.776Z'
 title: Digitaler Wandel und Politik
 author: []
 sourcePath: _posts/2016-04-09-digitaler-wandel-und-politik.md

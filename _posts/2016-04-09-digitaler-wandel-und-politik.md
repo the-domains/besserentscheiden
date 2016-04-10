@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Erarbeitung eines Grünbuchs zur Vorbereitung der Bundesratsenquete \"Digitaler Wandel und Politik\" im November 2015 und als Grundlage für weitere politische Diskussionen und Entscheidungen.\_"
-datePublished: '2016-04-10T20:59:40.878Z'
-dateModified: '2016-04-10T20:59:39.367Z'
+datePublished: '2016-04-10T21:01:23.253Z'
+dateModified: '2016-04-10T21:01:22.421Z'
 title: Digitaler Wandel und Politik
 author: []
 sourcePath: _posts/2016-04-09-digitaler-wandel-und-politik.md
@@ -31,7 +31,7 @@ _Ausgangspunkt: _Mit der zunehmenden Digitalisierung bekommen Menschen den Zugri
 
 _Die zentrale Fragestellung:_ Welche Auswirkungen die Digitalisierung auf die Arbeitswelt, die Lebensqualität, die Gesellschaft, die Politik und insbesondere die Demokratie hat, gilt es vorausschauend aus der Perspektive der Gesetzgebung zu untersuchen. Diese Herausforderung, mit der alle gesetzgebenden Körperschaften konfrontiert sind, wird sich der Bundesrat stellen. Im zweiten Halbjahr 2015 wird der Bundesrat einen Schwerpunkt zum Thema digitaler Wandel setzen. 
 
-Ergebnisse: 
+_Ergebnisse: _
 
 Das Grünbuch hier als [PDF][0] lesen und drucken. 
 
@@ -41,7 +41,7 @@ Bei der [parlamentarischen Enquete][4] am 18\. November 2015 standen das Thema "
 
 Auf Basis der parlamentarischen Enquete [hat der Zukunftsausschuss des Bundesrates eine Entschließung verabschiedet][6] und die Bundesregierung aufgefordert das Grünbuch in die Regierungsarbeit einfließen zu lassen.
 
-Projektverlauf:
+_Projektverlauf:_
 
 März
 2015, Entwicklug der Projektidee 
@@ -82,7 +82,7 @@ die Bundesregierung.
 Dezember
 2015, Projektabschluss 
 
-Fotos: Parlamentsdirektion/Bildagentur Zolles KG/Mike Ranz, Parlamentsdirektion/Michael Buchner
+_Fotos: Parlamentsdirektion/Bildagentur Zolles KG/Mike Ranz, Parlamentsdirektion/Michael Buchner_
 
 [][7]
 

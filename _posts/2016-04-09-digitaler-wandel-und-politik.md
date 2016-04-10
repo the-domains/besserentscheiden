@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: true
 keywords: []
-description: 'Erarbeitung eines Grünbuchs zur Vorbereitung der Bundesratsenquete "Digitaler Wandel und Politik" im November 2015 und als Grundlage für weitere politische Diskussionen und Entscheidungen.'
-datePublished: '2016-04-10T20:48:46.988Z'
-dateModified: '2016-04-10T20:47:49.760Z'
+description: "Erarbeitung eines Grünbuchs zur Vorbereitung der Bundesratsenquete \"Digitaler Wandel und Politik\" im November 2015 und als Grundlage für weitere politische Diskussionen und Entscheidungen.\_"
+datePublished: '2016-04-10T20:59:40.878Z'
+dateModified: '2016-04-10T20:59:39.367Z'
 title: Digitaler Wandel und Politik
 author: []
 sourcePath: _posts/2016-04-09-digitaler-wandel-und-politik.md
@@ -24,69 +24,65 @@ _type: Article
 ---
 # Digitaler Wandel und Politik
 ![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5fcbf968fe7de456c8594cce98c96ba9/passthrough.jpg?height=600&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F0c1b4cbf-d226-4239-9088-06701d128f63.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/81d03217-e2aa-4e1a-8a6a-b312763b1c88.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e87fc32d-280d-4f93-abd0-e8ed9be01a97.jpg)
 
-Erarbeitung eines Grünbuchs zur Vorbereitung der Bundesratsenquete "Digitaler Wandel und Politik" im November 2015 und als Grundlage für weitere politische Diskussionen und Entscheidungen.
+Erarbeitung eines Grünbuchs zur Vorbereitung der Bundesratsenquete "Digitaler Wandel und Politik" im November 2015 und als Grundlage für weitere politische Diskussionen und Entscheidungen. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/81d03217-e2aa-4e1a-8a6a-b312763b1c88.jpg)
 
-##### _Ausgangspunkt: _Mit der zunehmenden Digitalisierung bekommen Menschen den Zugriff auf die Produktion und den Vertrieb von Produkten. Was mit dem Desktop‐Publishing in den 1980‐ern begonnen hat, hat sich mit dem Internet zu einer Neuen Wirtschaft immaterieller Produkte und Serviceleistungen weiterentwickelt. Globales Focal Center dieser Entwicklung war und ist die Region Silicon Valley. Trotz der rapiden Entwicklung wird derzeit nur ein geringer Teil der Wertschöpfung schon „im Netz" erzielt. 10 Prozent des Handels werden online abgewickelt. Jetzt greift die Digitalisierung auf die Produktion realer Güter über und ermöglicht eine neue Industrie. Gleichzeitig entwickeln sich neue Wertschöpfungsketten, ein Internet der Dinge und neue Formen der Logistik. Ob diese Phase von Europa und Österreich besser genutzt werden kann, ist derzeit noch offen und für das zukünftige Wachstum von Bedeutung. 
+_Ausgangspunkt: _Mit der zunehmenden Digitalisierung bekommen Menschen den Zugriff auf die Produktion und den Vertrieb von Produkten. Was mit dem Desktop‐Publishing in den 1980‐ern begonnen hat, hat sich mit dem Internet zu einer Neuen Wirtschaft immaterieller Produkte und Serviceleistungen weiterentwickelt. Globales Focal Center dieser Entwicklung war und ist die Region Silicon Valley. Trotz der rapiden Entwicklung wird derzeit nur ein geringer Teil der Wertschöpfung schon „im Netz" erzielt. 10 Prozent des Handels werden online abgewickelt. Jetzt greift die Digitalisierung auf die Produktion realer Güter über und ermöglicht eine neue Industrie. Gleichzeitig entwickeln sich neue Wertschöpfungsketten, ein Internet der Dinge und neue Formen der Logistik. Ob diese Phase von Europa und Österreich besser genutzt werden kann, ist derzeit noch offen und für das zukünftige Wachstum von Bedeutung. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e87fc32d-280d-4f93-abd0-e8ed9be01a97.jpg)
 
-##### _Zentrale Fragestellung: _Welche Auswirkungen die Digitalisierung auf die Arbeitswelt, die Lebensqualität, die Gesellschaft, die Politik und insbesondere die Demokratie hat, gilt es vorausschauend aus der Perspektive der Gesetzgebung zu untersuchen. Diese Herausforderung, mit der alle gesetzgebenden Körperschaften konfrontiert sind, wird sich der Bundesrat stellen. Im zweiten Halbjahr 2015 wird der Bundesrat einen Schwerpunkt zum Thema digitaler Wandel setzen. 
+_Die zentrale Fragestellung:_ Welche Auswirkungen die Digitalisierung auf die Arbeitswelt, die Lebensqualität, die Gesellschaft, die Politik und insbesondere die Demokratie hat, gilt es vorausschauend aus der Perspektive der Gesetzgebung zu untersuchen. Diese Herausforderung, mit der alle gesetzgebenden Körperschaften konfrontiert sind, wird sich der Bundesrat stellen. Im zweiten Halbjahr 2015 wird der Bundesrat einen Schwerpunkt zum Thema digitaler Wandel setzen. 
 
-##### _Ergebnisse: _
+Ergebnisse: 
 
-##### Das Grünbuch hier als [PDF][0] lesen und drucken. 
+Das Grünbuch hier als [PDF][0] lesen und drucken. 
 
-##### Das Grünbuch als EBook lesen [.mobi (Kindle)][1], [.epub (Apple iBooks)][2], [.azw3][3]. 
+Das Grünbuch als EBook lesen [.mobi (Kindle)][1], [.epub (Apple iBooks)][2], [.azw3][3]. 
 
-##### Bei der [parlamentarischen Enquete][4] am 18\. November 2015 standen das Thema "Digitaler Wandel und Politik" und das Grünbuch zur Diskussion. Die Diskussionsbeiträge sind [im Protokoll][4] schriftlich und als [Video auf Youtube][5] festgehalten. 
+Bei der [parlamentarischen Enquete][4] am 18\. November 2015 standen das Thema "Digitaler Wandel und Politik" und das Grünbuch zur Diskussion. Die Diskussionsbeiträge sind [im Protokoll][4] schriftlich und als [Video auf Youtube][5] festgehalten. 
 
-##### Auf Basis der parlamentarischen Enquete [hat der Zukunftsausschuss des Bundesrates eine Entschließung verabschiedet][6] und die Bundesregierung aufgefordert das Grünbuch in die Regierungsarbeit einfließen zu lassen.
+Auf Basis der parlamentarischen Enquete [hat der Zukunftsausschuss des Bundesrates eine Entschließung verabschiedet][6] und die Bundesregierung aufgefordert das Grünbuch in die Regierungsarbeit einfließen zu lassen.
 
-##### _Projektverlauf:_
+Projektverlauf:
 
-##### _März
-2015_, Entwicklug der Projektidee 
+März
+2015, Entwicklug der Projektidee 
 
-##### _1\. Juli
-2015_, Bundesratspräsident Gottfried Kneifel kündigt im Bundesrat den
+1\. Juli
+2015, Bundesratspräsident Gottfried Kneifel kündigt im Bundesrat den
 Projektstart an. 
 
-##### _23\. Juli
-2015_, Start der offenen Online-Ideensammlung und begleitende
+23\. Juli
+2015, Start der offenen Online-Ideensammlung und begleitende
 Diskussionsveranstaltungen zur Frage: Welche rechtlichen und
 politischen Änderungen brauchen wir, um den Digitalen Wandel als Chancen nutzen
 zu können?
 
-##### _27\.
-September 2015_, Abschluss der ersten Phase. Anschließend Erarbeitung des
+27\.
+September 2015, Abschluss der ersten Phase. Anschließend Erarbeitung des
 Entwurfs für das Grünbuchs. 
 
-##### _3\.
-November 2015_, Veröffentlichung des Entwurfs für das Grünbuch und Start
+3\.
+November 2015, Veröffentlichung des Entwurfs für das Grünbuch und Start
 der Online-Debatte. 
 
-##### _15\.
-November 2015_, Veröffentlichung des Grünbuchs und Übermittlung an den
+15\.
+November 2015, Veröffentlichung des Grünbuchs und Übermittlung an den
 Bundesrat.
 
-##### _Ab 15\.
-November 2015_, Debatte auf Basis des Grünbuchs in diversen Diskussionsforen
+Ab 15\.
+November 2015, Debatte auf Basis des Grünbuchs in diversen Diskussionsforen
 und Veranstaltungen.
 
-##### _18\.
-November 2015_, Parlamentarische Enquete 
+18\.
+November 2015, Parlamentarische Enquete 
 
-##### _Dezember
-2015_, Beschlussfassung einer Entschließung des Bundesrates mit Forderungen an
+Dezember
+2015, Beschlussfassung einer Entschließung des Bundesrates mit Forderungen an
 die Bundesregierung.
 
-##### _Dezember
-2015_, Projektabschluss 
+Dezember
+2015, Projektabschluss 
 
-##### __
-
-##### _Fotos: Parlamentsdirektion/Bildagentur Zolles KG/Mike Ranz, Parlamentsdirektion/Michael Buchner_
+Fotos: Parlamentsdirektion/Bildagentur Zolles KG/Mike Ranz, Parlamentsdirektion/Michael Buchner
 
 [][7]
 

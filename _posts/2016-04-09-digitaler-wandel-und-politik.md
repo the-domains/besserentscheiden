@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Erarbeitung eines Grünbuchs zur Vorbereitung der Bundesratsenquete "Digitaler Wandel und Politik" im November 2015 und als Grundlage für weitere politische Diskussionen und Entscheidungen.'
-datePublished: '2016-04-10T17:17:21.136Z'
-dateModified: '2016-04-10T17:17:20.596Z'
+datePublished: '2016-04-10T20:48:46.988Z'
+dateModified: '2016-04-10T20:47:49.760Z'
 title: Digitaler Wandel und Politik
 author: []
 sourcePath: _posts/2016-04-09-digitaler-wandel-und-politik.md
@@ -24,8 +24,10 @@ _type: Article
 ---
 # Digitaler Wandel und Politik
 ![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5fcbf968fe7de456c8594cce98c96ba9/passthrough.jpg?height=600&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F0c1b4cbf-d226-4239-9088-06701d128f63.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/81d03217-e2aa-4e1a-8a6a-b312763b1c88.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e87fc32d-280d-4f93-abd0-e8ed9be01a97.jpg)
 
-##### Erarbeitung eines Grünbuchs zur Vorbereitung der Bundesratsenquete "Digitaler Wandel und Politik" im November 2015 und als Grundlage für weitere politische Diskussionen und Entscheidungen.
+Erarbeitung eines Grünbuchs zur Vorbereitung der Bundesratsenquete "Digitaler Wandel und Politik" im November 2015 und als Grundlage für weitere politische Diskussionen und Entscheidungen.
 
 ##### _Ausgangspunkt: _Mit der zunehmenden Digitalisierung bekommen Menschen den Zugriff auf die Produktion und den Vertrieb von Produkten. Was mit dem Desktop‐Publishing in den 1980‐ern begonnen hat, hat sich mit dem Internet zu einer Neuen Wirtschaft immaterieller Produkte und Serviceleistungen weiterentwickelt. Globales Focal Center dieser Entwicklung war und ist die Region Silicon Valley. Trotz der rapiden Entwicklung wird derzeit nur ein geringer Teil der Wertschöpfung schon „im Netz" erzielt. 10 Prozent des Handels werden online abgewickelt. Jetzt greift die Digitalisierung auf die Produktion realer Güter über und ermöglicht eine neue Industrie. Gleichzeitig entwickeln sich neue Wertschöpfungsketten, ein Internet der Dinge und neue Formen der Logistik. Ob diese Phase von Europa und Österreich besser genutzt werden kann, ist derzeit noch offen und für das zukünftige Wachstum von Bedeutung. 
 
@@ -41,7 +43,7 @@ _type: Article
 
 ##### Auf Basis der parlamentarischen Enquete [hat der Zukunftsausschuss des Bundesrates eine Entschließung verabschiedet][6] und die Bundesregierung aufgefordert das Grünbuch in die Regierungsarbeit einfließen zu lassen.
 
-##### _Projektverlauf _
+##### _Projektverlauf:_
 
 ##### _März
 2015_, Entwicklug der Projektidee 

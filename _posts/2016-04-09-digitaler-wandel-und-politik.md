@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Erarbeitung eines Grünbuchs zur Vorbereitung der Bundesratsenquete "Digitaler Wandel und Politik" im November 2015 und als Grundlage für weitere politische Diskussionen und Entscheidungen.'
-datePublished: '2016-04-10T07:53:13.383Z'
-dateModified: '2016-04-10T07:53:11.000Z'
+datePublished: '2016-04-10T17:17:20.440Z'
+dateModified: '2016-04-10T17:17:19.538Z'
 title: Digitaler Wandel und Politik
 author: []
 sourcePath: _posts/2016-04-09-digitaler-wandel-und-politik.md
@@ -33,13 +33,13 @@ _type: Article
 
 ##### _Ergebnisse: _
 
-##### Das Grünbuch hier als PDF lesen und drucken. 
+##### Das Grünbuch hier als [PDF][0] lesen und drucken. 
 
-##### Das Grünbuch als EBook lesen .mobi (Kindle), .epub (Apple iBooks), .azw3\. 
+##### Das Grünbuch als EBook lesen [.mobi (Kindle)][1], [.epub (Apple iBooks)][2], [.azw3][3]. 
 
-##### Bei der parlamentarischen Enquete am 18\. November 2015 standen das Thema "Digitaler Wandel und Politik" und das Grünbuch zur Diskussion. Die Diskussionsbeiträge sind im Protokoll schriftlich und als Video auf Youtube festgehalten. 
+##### Bei der [parlamentarischen Enquete][4] am 18\. November 2015 standen das Thema "Digitaler Wandel und Politik" und das Grünbuch zur Diskussion. Die Diskussionsbeiträge sind [im Protokoll][4] schriftlich und als [Video auf Youtube][5] festgehalten. 
 
-##### Auf Basis der parlamentarischen Enquete hat der Zukunftsausschuss des Bundesrates eine Entschließung verabschiedet und die Bundesregierung aufgefordert das Grünbuch in die Regierungsarbeit einfließen zu lassen.
+##### Auf Basis der parlamentarischen Enquete [hat der Zukunftsausschuss des Bundesrates eine Entschließung verabschiedet][6] und die Bundesregierung aufgefordert das Grünbuch in die Regierungsarbeit einfließen zu lassen.
 
 ##### _Projektverlauf _
 
@@ -80,8 +80,19 @@ November 2015_, Parlamentarische Enquete
 die Bundesregierung.
 
 ##### _Dezember
-2015_, Projektabschluss
+2015_, Projektabschluss 
 
-[][0]
+##### __
 
-[0]: http://www.besserentscheiden.at/#!digitaler-wandel-und-politik/s5tlb
+##### _Fotos: Parlamentsdirektion/Bildagentur Zolles KG/Mike Ranz, Parlamentsdirektion/Michael Buchner_
+
+[][7]
+
+[0]: http://info.publicaffairs.cc/Freigegebene%20Dokumente/Gr%C3%BCnbuch_Digitaler_Wandel_und_Politik_20151111.pdf
+[1]: http://info.publicaffairs.cc/Freigegebene%20Dokumente/Grunbuch%20Digitaler%20Wandel%20und%20Politik%20-%20besserentscheiden.mobi
+[2]: http://info.publicaffairs.cc/Freigegebene%20Dokumente/Grunbuch%20Digitaler%20Wandel%20und%20Politik%20-%20besserentscheiden.epub
+[3]: http://info.publicaffairs.cc/Freigegebene%20Dokumente/Grunbuch%20Digitaler%20Wandel%20und%20Politik%20-%20besserentscheiden.azw3
+[4]: https://www.parlament.gv.at/PAKT/VHG/BR/VER-BR/VER-BR_00033/
+[5]: https://www.youtube.com/playlist?list=PLPMdAN8iednvvYEXYXzV--DSeXxZPMj0k
+[6]: https://www.parlament.gv.at/PAKT/VHG/BR/I-BR/I-BR_09522/index.shtml
+[7]: http://www.besserentscheiden.at/#!digitaler-wandel-und-politik/s5tlb

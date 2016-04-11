@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: "Projektstatus:\_Dieses Projekt ist in Vorbereitung."
-datePublished: '2016-04-11T19:51:49.519Z'
-dateModified: '2016-04-11T19:51:46.030Z'
+datePublished: '2016-04-11T19:52:32.967Z'
+dateModified: '2016-04-11T19:52:29.936Z'
 title: 'Digitaler Wandel, Bildung und Arbeit'
 author: []
 sourcePath: _posts/2016-04-11-digitaler-wandel-bildung-und-arbeit.md

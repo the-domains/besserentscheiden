@@ -6,23 +6,23 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Projektstatus: '
-datePublished: '2016-04-11T19:46:56.197Z'
-dateModified: '2016-04-11T19:46:50.446Z'
-title: 'Angekündigt: Digitaler Wandel, Bildung und Arbeit'
+datePublished: '2016-04-11T19:48:29.453Z'
+dateModified: '2016-04-11T19:48:24.497Z'
+title: 'Digitaler Wandel, Bildung und Arbeit'
 author: []
+sourcePath: _posts/2016-04-11-digitaler-wandel-bildung-und-arbeit.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-11-digitaler-wandel-bildung-und-arbeit.md
-published: true
 url: digitaler-wandel-bildung-und-arbeit/index.html
 _type: Article
 
 ---
-# Angekündigt: Digitaler Wandel, Bildung und Arbeit
+# Digitaler Wandel, Bildung und Arbeit
 
 _Projektstatus: _
 

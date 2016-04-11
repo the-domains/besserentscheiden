@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Die Idee ist keine Neue. "Keine Alternativen zu hören, heißt keine Wahlfreiheit zu haben", so wird Xerxes - laut Herodot - von Artabanos gewarnt.'
-datePublished: '2016-04-11T12:35:54.466Z'
-dateModified: '2016-04-11T12:35:24.492Z'
+datePublished: '2016-04-11T12:36:24.876Z'
+dateModified: '2016-04-11T12:36:22.590Z'
 title: Warum Meinungsvielfalt?
 author: []
 sourcePath: _posts/2016-04-11-warum-meinungsvielfalt.md
@@ -30,4 +30,4 @@ Die Idee ist keine Neue. "Keine Alternativen zu hören, heißt keine Wahlfreihei
 
 "König, wenn keine entgegengesetzten Reden geäußert werden, kann man keine bessere wählen, sondern muss die geäußerte umsetzen."
 
-Heute verwenden für diese Entscheidungsfindung den Begriff "Deliberation". Dialogorientierte Entscheidungen sind nicht neu. Ihr Bedeutung ist zudem kinderleicht zu verstehen. In der Sesamstraße heißt das: "Wer nicht fragt bleibt dumm."
+Heute verwenden für diese Entscheidungsfindung den Begriff "Deliberation". Dialogorientierte Entscheidungen sind nicht neu. Ihr Bedeutung ist zudem kinderleicht zu verstehen. In der Sesamstraße heißt das zum Beispiel: "Wer nicht fragt bleibt dumm."

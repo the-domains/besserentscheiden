@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Erarbeitung eines Grünbuchs zur Vorbereitung der Bundesratsenquete \"Digitaler Wandel und Politik\" im November 2015 und als Grundlage für weitere politische Diskussionen und Entscheidungen.\_"
-datePublished: '2016-04-11T12:06:11.003Z'
-dateModified: '2016-04-11T12:06:06.903Z'
+datePublished: '2016-04-11T12:12:35.924Z'
+dateModified: '2016-04-11T12:12:25.484Z'
 title: Digitaler Wandel und Politik
 author: []
 sourcePath: _posts/2016-04-09-digitaler-wandel-und-politik.md
@@ -43,7 +43,7 @@ Auf Basis der parlamentarischen Enquete [hat der Zukunftsausschuss des Bundesrat
 _Projektverlauf:_
 
 März
-2015, Entwicklug der Projektidee 
+2015, Entwicklung der Projektidee 
 
 1\. Juli
 2015, Bundesratspräsident Gottfried Kneifel kündigt im Bundesrat den
@@ -57,7 +57,7 @@ zu können?
 
 27\.
 September 2015, Abschluss der ersten Phase. Anschließend Erarbeitung des
-Entwurfs für das Grünbuchs. 
+Entwurfs für das Grünbuch. 
 
 3\.
 November 2015, Veröffentlichung des Entwurfs für das Grünbuch und Start
@@ -65,7 +65,7 @@ der Online-Debatte.
 
 15\.
 November 2015, Veröffentlichung des Grünbuchs und Übermittlung an den
-Bundesrat.
+Bundesrat. 
 
 Ab 15\.
 November 2015, Debatte auf Basis des Grünbuchs in diversen Diskussionsforen

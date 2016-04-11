@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Erarbeitung eines Grünbuchs zur Vorbereitung der Bundesratsenquete \"Digitaler Wandel und Politik\" im November 2015 und als Grundlage für weitere politische Diskussionen und Entscheidungen.\_"
-datePublished: '2016-04-11T12:24:55.118Z'
-dateModified: '2016-04-11T12:24:40.235Z'
+datePublished: '2016-04-11T14:06:48.700Z'
+dateModified: '2016-04-11T14:04:18.267Z'
 title: Digitaler Wandel und Politik
 author: []
 sourcePath: _posts/2016-04-09-digitaler-wandel-und-politik.md
@@ -32,53 +32,53 @@ _Die zentrale Fragestellung:_ Welche Auswirkungen die Digitalisierung auf die Ar
 
 _Ergebnisse: _
 
-Das Grünbuch hier als [PDF][0] lesen und drucken. 
+* Das Grünbuch hier als [PDF][0] lesen und drucken. 
 
-Das Grünbuch als EBook lesen [.mobi (Kindle)][1], [.epub (Apple iBooks)][2], [.azw3][3]. 
+* Das Grünbuch als EBook lesen [.mobi (Kindle)][1], [.epub (Apple iBooks)][2], [.azw3][3]. 
 
-Bei der [parlamentarischen Enquete][4] am 18\. November 2015 standen das Thema "Digitaler Wandel und Politik" und das Grünbuch zur Diskussion. Die Diskussionsbeiträge sind [im Protokoll][4] schriftlich und als [Video auf Youtube][5] festgehalten. 
+* Bei der [parlamentarischen Enquete][4] am 18\. November 2015 standen das Thema "Digitaler Wandel und Politik" und das Grünbuch zur Diskussion. Die Diskussionsbeiträge sind [im Protokoll][4] schriftlich und als [Video auf Youtube][5] festgehalten. 
 
-Auf Basis der parlamentarischen Enquete [hat der Zukunftsausschuss des Bundesrates eine Entschließung verabschiedet][6] und die Bundesregierung aufgefordert das Grünbuch in die Regierungsarbeit einfließen zu lassen.
+* Auf Basis der parlamentarischen Enquete [hat der Zukunftsausschuss des Bundesrates eine Entschließung verabschiedet][6] und die Bundesregierung aufgefordert das Grünbuch in die Regierungsarbeit einfließen zu lassen.
 
 _Projektverlauf:_
 
-März
+* März
 2015, Entwicklung der Projektidee 
 
-1\. Juli
+* 1\. Juli
 2015, Bundesratspräsident Gottfried Kneifel kündigt im Bundesrat den
 Projektstart an. 
 
-23\. Juli
+* 23\. Juli
 2015, Start der offenen Online-Ideensammlung und begleitende
 Diskussionsveranstaltungen zur Frage: Welche rechtlichen und
 politischen Änderungen brauchen wir, um den Digitalen Wandel als Chancen nutzen
 zu können?
 
-27\.
+* 27\.
 September 2015, Abschluss der ersten Phase. Anschließend Erarbeitung des
 Entwurfs für das Grünbuch. 
 
-3\.
+* 3\.
 November 2015, Veröffentlichung des Entwurfs für das Grünbuch und Start
 der Online-Debatte. 
 
-15\.
+* 15\.
 November 2015, Veröffentlichung des Grünbuchs und Übermittlung an den
 Bundesrat.
 
-Ab 15\.
+* Ab 15\.
 November 2015, Debatte auf Basis des Grünbuchs in diversen Diskussionsforen
 und Veranstaltungen.
 
-18\.
+* 18\.
 November 2015, Parlamentarische Enquete 
 
-Dezember
+* Dezember
 2015, Beschlussfassung einer Entschließung des Bundesrates mit Forderungen an
 die Bundesregierung.
 
-Dezember
+* Dezember
 2015, Projektabschluss 
 
 _Fotos: Parlamentsdirektion/Bildagentur Zolles KG/Mike Ranz, Parlamentsdirektion/Michael Buchner_

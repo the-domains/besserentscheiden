@@ -1,6 +1,6 @@
 name: '#besserentscheiden'
 favicon: null
-layout_spectrum: 0.25296
+layout_spectrum: 0.50169
 typography_spectrum: 0.49492
 title: '#besserentscheiden . Ihre Pnyx, Ihre Plattform für bessere politische Entscheidungen'
 cta:
@@ -22,7 +22,7 @@ color:
     - '#ffffff'
     - '#d9947e'
     - '#4a4d50'
-  brandStrength: 0
+  brandStrength: 0.5
   lightness: 0.75
   saturation: 0.5625
   rhythmicContrast: 0.75

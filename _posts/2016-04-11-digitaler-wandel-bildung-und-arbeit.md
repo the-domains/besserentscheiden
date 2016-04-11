@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: "Projektstatus:\_Dieses Projekt ist in Vorbereitung."
-datePublished: '2016-04-11T19:52:32.967Z'
-dateModified: '2016-04-11T19:52:29.936Z'
+description: Dieses Projekt ist in Vorbereitung.
+datePublished: '2016-04-11T19:53:26.273Z'
+dateModified: '2016-04-11T19:53:19.721Z'
 title: 'Digitaler Wandel, Bildung und Arbeit'
 author: []
 sourcePath: _posts/2016-04-11-digitaler-wandel-bildung-und-arbeit.md
@@ -24,7 +24,7 @@ _type: Article
 ---
 # Digitaler Wandel, Bildung und Arbeit
 
-_Projektstatus: _Dieses Projekt ist in Vorbereitung.
+## Dieses Projekt ist in Vorbereitung.
 
 _Projektgegenstand:_
 

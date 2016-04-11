@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Erarbeitung eines Grünbuchs zur Vorbereitung der Bundesratsenquete \"Digitaler Wandel und Politik\" im November 2015 und als Grundlage für weitere politische Diskussionen und Entscheidungen.\_"
-datePublished: '2016-04-11T08:52:34.023Z'
-dateModified: '2016-04-11T08:52:25.712Z'
+datePublished: '2016-04-11T08:55:41.807Z'
+dateModified: '2016-04-11T08:54:21.352Z'
 title: Digitaler Wandel und Politik
 author: []
 sourcePath: _posts/2016-04-09-digitaler-wandel-und-politik.md
@@ -25,7 +25,7 @@ _type: Article
 # Digitaler Wandel und Politik
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ba7754c016e21594f45f4caae439fe8aebf59f69.jpg)
 
-Erarbeitung eines Grünbuchs zur Vorbereitung der Bundesratsenquete "Digitaler Wandel und Politik" im November 2015 und als Grundlage für weitere politische Diskussionen und Entscheidungen. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/01d6265f31ba7de0868d3a0d5568a57ae05bde4d.jpg)
+## Erarbeitung eines Grünbuchs zur Vorbereitung der Bundesratsenquete "Digitaler Wandel und Politik" im November 2015 und als Grundlage für weitere politische Diskussionen und Entscheidungen. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/01d6265f31ba7de0868d3a0d5568a57ae05bde4d.jpg)
 
 _Ausgangspunkt: _Mit der zunehmenden Digitalisierung bekommen Menschen den Zugriff auf die Produktion und den Vertrieb von Produkten. Was mit dem Desktop‐Publishing in den 1980‐ern begonnen hat, hat sich mit dem Internet zu einer Neuen Wirtschaft immaterieller Produkte und Serviceleistungen weiterentwickelt. Globales Focal Center dieser Entwicklung war und ist die Region Silicon Valley. Trotz der rapiden Entwicklung wird derzeit nur ein geringer Teil der Wertschöpfung schon „im Netz" erzielt. 10 Prozent des Handels werden online abgewickelt. Jetzt greift die Digitalisierung auf die Produktion realer Güter über und ermöglicht eine neue Industrie. Gleichzeitig entwickeln sich neue Wertschöpfungsketten, ein Internet der Dinge und neue Formen der Logistik. Ob diese Phase von Europa und Österreich besser genutzt werden kann, ist derzeit noch offen und für das zukünftige Wachstum von Bedeutung. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/467118762201da8436e05811f38015d776b4d38a.jpg)
 

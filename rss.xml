@@ -4,7 +4,7 @@
         <description><![CDATA[#besserentscheiden . Ihre Pnyx, Ihre Plattform für bessere politische Entscheidungen]]></description>
         <link>http://www.besserentscheiden.at/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Apr 2016 12:13:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2016 12:22:51 GMT</lastBuildDate>
         <atom:link href="http://www.besserentscheiden.at/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Digitaler Wandel und Politik]]></title>
@@ -21,18 +21,18 @@
             <pubDate>Mon, 11 Apr 2016 09:22:26 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Warum Meinungsvielfalt?]]></title>
+            <description><![CDATA[<article><h1>Warum Meinungsvielfalt?</h1><p>Die Idee ist keine Neue. Keine Alternativen zu hören, heißt keine Wahlfreiheit zu haben, so wird Xerxes - laut Herodot - von Artabanos gewarnt.</p></article>]]></description>
+            <link>http://www.besserentscheiden.at/warum-meinungsvielfalt/index.html</link>
+            <guid isPermaLink="false">86d9fd95-8182-436c-b592-16aa2badf7c3</guid>
+            <pubDate>Mon, 11 Apr 2016 12:22:27 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Was ist eine Pnyx und was will #besserentscheiden?]]></title>
             <description><![CDATA[<article><h1>Was ist eine Pnyx und was will #besserentscheiden?</h1><p>Die Plattform #besserentscheiden wurde von Menschen wie Ihnen gestartet. Menschen die sich ihrer Verantwortung für Demokratie, Parlamentarismus, Rechtsstaat und eine konstruktive politische Kultur bewusst sind.</p></article>]]></description>
             <link>http://www.besserentscheiden.at/pnyx/index.html</link>
             <guid isPermaLink="false">0aa562ca-c162-4bfa-881d-22ccdab73f53</guid>
             <pubDate>Mon, 11 Apr 2016 12:09:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Warum Meinungsvielfalt?]]></title>
-            <description><![CDATA[<article><h1>Warum Meinungsvielfalt?</h1><p>Die Idee ist keine Neue. Keine Alternativen zu hören, heißt keine Wahlfreiheit zu haben. So wird Xerxes - laut Herodot - von Artabanos gewarnt.</p></article>]]></description>
-            <link>http://www.besserentscheiden.at/warum-meinungsvielfalt/index.html</link>
-            <guid isPermaLink="false">86d9fd95-8182-436c-b592-16aa2badf7c3</guid>
-            <pubDate>Mon, 11 Apr 2016 12:04:15 GMT</pubDate>
         </item>
     </channel>
 </rss>

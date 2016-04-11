@@ -1,14 +1,14 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'Projektstatus: '
-datePublished: '2016-04-11T19:45:19.819Z'
-dateModified: '2016-04-11T19:45:00.222Z'
-title: 'Digitaler Wandel, Bildung und Arbeit'
+datePublished: '2016-04-11T19:46:56.197Z'
+dateModified: '2016-04-11T19:46:50.446Z'
+title: 'Angekündigt: Digitaler Wandel, Bildung und Arbeit'
 author: []
 authors: []
 publisher:
@@ -22,7 +22,7 @@ url: digitaler-wandel-bildung-und-arbeit/index.html
 _type: Article
 
 ---
-# Digitaler Wandel, Bildung und Arbeit
+# Angekündigt: Digitaler Wandel, Bildung und Arbeit
 
 _Projektstatus: _
 

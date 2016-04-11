@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Erarbeitung eines Grünbuchs zur Vorbereitung der Bundesratsenquete \"Digitaler Wandel und Politik\" im November 2015 und als Grundlage für weitere politische Diskussionen und Entscheidungen.\_"
-datePublished: '2016-04-11T08:52:25.472Z'
-dateModified: '2016-04-11T08:51:18.933Z'
+datePublished: '2016-04-11T08:52:34.023Z'
+dateModified: '2016-04-11T08:52:25.712Z'
 title: Digitaler Wandel und Politik
 author: []
 sourcePath: _posts/2016-04-09-digitaler-wandel-und-politik.md
@@ -27,7 +27,7 @@ _type: Article
 
 Erarbeitung eines Grünbuchs zur Vorbereitung der Bundesratsenquete "Digitaler Wandel und Politik" im November 2015 und als Grundlage für weitere politische Diskussionen und Entscheidungen. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/01d6265f31ba7de0868d3a0d5568a57ae05bde4d.jpg)
 
-_Ausgangspunkt: _Mit der zunehmenden Digitalisierung bekommen Menschen den Zugriff auf die Produktion und den Vertrieb von Produkten. Was mit dem Desktop‐Publishing in den 1980‐ern begonnen hat, hat sich mit dem Internet zu einer Neuen Wirtschaft immaterieller Produkte und Serviceleistungen weiterentwickelt. Globales Focal Center dieser Entwicklung war und ist die Region Silicon Valley. Trotz der rapiden Entwicklung wird derzeit nur ein geringer Teil der Wertschöpfung schon „im Netz" erzielt. 10 Prozent des Handels werden online abgewickelt. Jetzt greift die Digitalisierung auf die Produktion realer Güter über und ermöglicht eine neue Industrie. Gleichzeitig entwickeln sich neue Wertschöpfungsketten, ein Internet der Dinge und neue Formen der Logistik. Ob diese Phase von Europa und Österreich besser genutzt werden kann, ist derzeit noch offen und für das zukünftige Wachstum von Bedeutung. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e87fc32d-280d-4f93-abd0-e8ed9be01a97.jpg)
+_Ausgangspunkt: _Mit der zunehmenden Digitalisierung bekommen Menschen den Zugriff auf die Produktion und den Vertrieb von Produkten. Was mit dem Desktop‐Publishing in den 1980‐ern begonnen hat, hat sich mit dem Internet zu einer Neuen Wirtschaft immaterieller Produkte und Serviceleistungen weiterentwickelt. Globales Focal Center dieser Entwicklung war und ist die Region Silicon Valley. Trotz der rapiden Entwicklung wird derzeit nur ein geringer Teil der Wertschöpfung schon „im Netz" erzielt. 10 Prozent des Handels werden online abgewickelt. Jetzt greift die Digitalisierung auf die Produktion realer Güter über und ermöglicht eine neue Industrie. Gleichzeitig entwickeln sich neue Wertschöpfungsketten, ein Internet der Dinge und neue Formen der Logistik. Ob diese Phase von Europa und Österreich besser genutzt werden kann, ist derzeit noch offen und für das zukünftige Wachstum von Bedeutung. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/467118762201da8436e05811f38015d776b4d38a.jpg)
 
 _Die zentrale Fragestellung:_ Welche Auswirkungen die Digitalisierung auf die Arbeitswelt, die Lebensqualität, die Gesellschaft, die Politik und insbesondere die Demokratie hat, gilt es vorausschauend aus der Perspektive der Gesetzgebung zu untersuchen. Diese Herausforderung, mit der alle gesetzgebenden Körperschaften konfrontiert sind, wird sich der Bundesrat stellen. Im zweiten Halbjahr 2015 wird der Bundesrat einen Schwerpunkt zum Thema digitaler Wandel setzen. 
 

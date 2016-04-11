@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: true
 keywords: []
-description: 'Projektstatus: '
-datePublished: '2016-04-11T19:51:13.041Z'
-dateModified: '2016-04-11T19:51:07.219Z'
+description: "Projektstatus:\_Dieses Projekt ist in Vorbereitung."
+datePublished: '2016-04-11T19:51:49.519Z'
+dateModified: '2016-04-11T19:51:46.030Z'
 title: 'Digitaler Wandel, Bildung und Arbeit'
 author: []
 sourcePath: _posts/2016-04-11-digitaler-wandel-bildung-und-arbeit.md

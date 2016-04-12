@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Erarbeitung eines Grünbuchs zur Vorbereitung der Bundesratsenquete \"Digitaler Wandel und Politik\" im November 2015 und als Grundlage für weitere politische Diskussionen und Entscheidungen.\_"
-datePublished: '2016-04-12T07:44:36.483Z'
-dateModified: '2016-04-12T07:38:43.326Z'
+datePublished: '2016-04-12T13:02:45.942Z'
+dateModified: '2016-04-12T13:02:35.806Z'
 title: Digitaler Wandel und Politik
 author: []
 sourcePath: _posts/2016-04-09-digitaler-wandel-und-politik.md
@@ -28,63 +28,67 @@ Erarbeitung eines Grünbuchs zur Vorbereitung der Bundesratsenquete "Digitaler W
 
 __
 
-_Ausgangspunkt: _Mit der zunehmenden Digitalisierung bekommen Menschen den Zugriff auf die Produktion und den Vertrieb von Produkten. Was mit dem Desktop‐Publishing in den 1980‐ern begonnen hat, hat sich mit dem Internet zu einer Neuen Wirtschaft immaterieller Produkte und Serviceleistungen weiterentwickelt. Globales Focal Center dieser Entwicklung war und ist die Region Silicon Valley. Trotz der rapiden Entwicklung wird derzeit nur ein geringer Teil der Wertschöpfung schon „im Netz" erzielt. 10 Prozent des Handels werden online abgewickelt. Jetzt greift die Digitalisierung auf die Produktion realer Güter über und ermöglicht eine neue Industrie. Gleichzeitig entwickeln sich neue Wertschöpfungsketten, ein Internet der Dinge und neue Formen der Logistik. Ob diese Phase von Europa und Österreich besser genutzt werden kann, ist derzeit noch offen und für das zukünftige Wachstum von Bedeutung. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ba7754c016e21594f45f4caae439fe8aebf59f69.jpg)
+## Ausgangspunkt: 
+
+Mit der zunehmenden Digitalisierung bekommen Menschen den Zugriff auf die Produktion und den Vertrieb von Produkten. Was mit dem Desktop‐Publishing in den 1980‐ern begonnen hat, hat sich mit dem Internet zu einer Neuen Wirtschaft immaterieller Produkte und Serviceleistungen weiterentwickelt. Globales Focal Center dieser Entwicklung war und ist die Region Silicon Valley. Trotz der rapiden Entwicklung wird derzeit nur ein geringer Teil der Wertschöpfung schon „im Netz" erzielt. 10 Prozent des Handels werden online abgewickelt. Jetzt greift die Digitalisierung auf die Produktion realer Güter über und ermöglicht eine neue Industrie. Gleichzeitig entwickeln sich neue Wertschöpfungsketten, ein Internet der Dinge und neue Formen der Logistik. Ob diese Phase von Europa und Österreich besser genutzt werden kann, ist derzeit noch offen und für das zukünftige Wachstum von Bedeutung. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ba7754c016e21594f45f4caae439fe8aebf59f69.jpg)
 
 __
 
-_Die zentrale Fragestellung:_ Welche Auswirkungen die Digitalisierung auf die Arbeitswelt, die Lebensqualität, die Gesellschaft, die Politik und insbesondere die Demokratie hat, gilt es vorausschauend aus der Perspektive der Gesetzgebung zu untersuchen. Diese Herausforderung, mit der alle gesetzgebenden Körperschaften konfrontiert sind, wird sich der Bundesrat stellen. Im zweiten Halbjahr 2015 wird der Bundesrat einen Schwerpunkt zum Thema digitaler Wandel setzen. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/467118762201da8436e05811f38015d776b4d38a.jpg)
+## Die zentrale Fragestellung: 
+
+Welche Auswirkungen die Digitalisierung auf die Arbeitswelt, die Lebensqualität, die Gesellschaft, die Politik und insbesondere die Demokratie hat, gilt es vorausschauend aus der Perspektive der Gesetzgebung zu untersuchen. Diese Herausforderung, mit der alle gesetzgebenden Körperschaften konfrontiert sind, wird sich der Bundesrat stellen. Im zweiten Halbjahr 2015 wird der Bundesrat einen Schwerpunkt zum Thema digitaler Wandel setzen. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/467118762201da8436e05811f38015d776b4d38a.jpg)
 
 __
 
-_Ergebnisse: _
+## Ergebnisse: 
 
-* Das Grünbuch hier als [PDF][0] lesen und drucken. 
+Das Grünbuch hier als [PDF][0] lesen und drucken. 
 
-* Das Grünbuch als EBook lesen [.mobi (Kindle)][1], [.epub (Apple iBooks)][2], [.azw3][3]. 
+Das Grünbuch als EBook lesen [.mobi (Kindle)][1], [.epub (Apple iBooks)][2], [.azw3][3]. 
 
-* Bei der [parlamentarischen Enquete][4] am 18\. November 2015 standen das Thema "Digitaler Wandel und Politik" und das Grünbuch zur Diskussion. Die Diskussionsbeiträge sind [im Protokoll][4] schriftlich und als [Video auf Youtube][5] festgehalten. 
+Bei der [parlamentarischen Enquete][4] am 18\. November 2015 standen das Thema "Digitaler Wandel und Politik" und das Grünbuch zur Diskussion. Die Diskussionsbeiträge sind [im Protokoll][4] schriftlich und als [Video auf Youtube][5] festgehalten. 
 
-* Auf Basis der parlamentarischen Enquete [hat der Zukunftsausschuss des Bundesrates eine Entschließung verabschiedet][6] und die Bundesregierung aufgefordert das Grünbuch in die Regierungsarbeit einfließen zu lassen.
+Auf Basis der parlamentarischen Enquete [hat der Zukunftsausschuss des Bundesrates eine Entschließung verabschiedet][6] und die Bundesregierung aufgefordert das Grünbuch in die Regierungsarbeit einfließen zu lassen.
 
-_Projektverlauf:_
+## Projektverlauf: 
 
-* März
+März
 2015, Entwicklung der Projektidee 
 
-* 1\. Juli
+1\. Juli
 2015, Bundesratspräsident Gottfried Kneifel kündigt im Bundesrat den
 Projektstart an. 
 
-* 23\. Juli
+23\. Juli
 2015, Start der offenen Online-Ideensammlung und begleitende
 Diskussionsveranstaltungen zur Frage: Welche rechtlichen und
 politischen Änderungen brauchen wir, um den Digitalen Wandel als Chancen nutzen
 zu können?
 
-* 27\.
+27\.
 September 2015, Abschluss der ersten Phase. Anschließend Erarbeitung des
 Entwurfs für das Grünbuch. 
 
-* 3\.
+3\.
 November 2015, Veröffentlichung des Entwurfs für das Grünbuch und Start
 der Online-Debatte. 
 
-* 15\.
+15\.
 November 2015, Veröffentlichung des Grünbuchs und Übermittlung an den
 Bundesrat.
 
-* Ab 15\.
+Ab 15\.
 November 2015, Debatte auf Basis des Grünbuchs in diversen Diskussionsforen
 und Veranstaltungen.
 
-* 18\.
+18\.
 November 2015, Parlamentarische Enquete 
 
-* Dezember
+Dezember
 2015, Beschlussfassung einer Entschließung des Bundesrates mit Forderungen an
 die Bundesregierung.
 
-* Dezember
+Dezember
 2015, Projektabschluss 
 
 _Fotos: Parlamentsdirektion/Bildagentur Zolles KG/Mike Ranz, Parlamentsdirektion/Michael Buchner_

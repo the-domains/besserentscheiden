@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: 'Projektgegenstand:'
-datePublished: '2016-04-11T19:54:36.522Z'
-dateModified: '2016-04-11T19:54:33.763Z'
+description: Dieses Projekt ist in Vorbereitung.
+datePublished: '2016-04-12T13:08:16.776Z'
+dateModified: '2016-04-12T13:08:11.488Z'
 title: 'Digitaler Wandel, Bildung und Arbeit'
 author: []
 sourcePath: _posts/2016-04-11-digitaler-wandel-bildung-und-arbeit.md
@@ -26,7 +26,7 @@ _type: Article
 
 ## Dieses Projekt ist in Vorbereitung.
 
-_Projektgegenstand: _Die Auswirkungen des Digitalen Wandel auf die
+Die Auswirkungen des Digitalen Wandel auf die
 Arbeitswelt haben eine zentrale Bedeutung für die weitere Entwicklung unserer
 Gesellschaft. Bildung ist der Schlüssel, um Beschäftigung und Arbeitseinkommen
 zu erhalten.
@@ -47,8 +47,12 @@ und das legen die genannten Beispiele aus der Sharing Economy oder dem
 selbstfahrenden Auto nahe --kommt es auch zu Jobverlusten, die beachtlich sein
 werden.
 
-_Die zentrale Frage: _Welcher Handlungsbedarf besteht für die
+## Die zentrale Frage: 
+
+Welcher Handlungsbedarf besteht für die
 österreichische Gesetzgebung im Zusammenhang zwischen Digitalem Wandel, Bildung
 und Arbeit?
 
-_Beteiligung: _Wenn Sie sich an der Diskussion beteiligen wollen, melden Sie sich per EMail an office@besserentscheiden.at
+## Beteiligung: 
+
+Wenn Sie sich an der Diskussion beteiligen wollen, melden Sie sich per EMail an office@besserentscheiden.at

@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Dieses Projekt ist in Vorbereitung.
-datePublished: '2016-04-12T13:08:16.776Z'
-dateModified: '2016-04-12T13:08:11.488Z'
+datePublished: '2016-04-12T13:13:52.151Z'
+dateModified: '2016-04-12T13:08:25.854Z'
 title: 'Digitaler Wandel, Bildung und Arbeit'
 author: []
 sourcePath: _posts/2016-04-11-digitaler-wandel-bildung-und-arbeit.md

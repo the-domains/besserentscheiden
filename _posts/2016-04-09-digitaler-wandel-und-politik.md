@@ -3,13 +3,14 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
 keywords: []
-description: "Erarbeitung eines Grünbuchs zur Vorbereitung der Bundesratsenquete \"Digitaler Wandel und Politik\" im November 2015 und als Grundlage für weitere politische Diskussionen und Entscheidungen.\_"
-datePublished: '2016-04-12T13:10:55.512Z'
-dateModified: '2016-04-12T13:10:55.240Z'
-title: Digitaler Wandel und Politik
-author: []
+description: ''
+datePublished: '2016-04-23T16:02:17.125Z'
+dateModified: '2016-04-23T16:02:10.553Z'
+title: ''
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-04-09-digitaler-wandel-und-politik.md
 published: true
 authors: []
@@ -18,6 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
+starred: true
 url: digitaler-wandel-und-politik/index.html
 _type: Article
 
@@ -52,44 +54,25 @@ Auf Basis der parlamentarischen Enquete [hat der Zukunftsausschuss des Bundesrat
 
 ## Projektverlauf: 
 
-März
-2015, Entwicklung der Projektidee 
+März 2015, Entwicklung der Projektidee 
 
-1\. Juli
-2015, Bundesratspräsident Gottfried Kneifel kündigt im Bundesrat den
-Projektstart an. 
+1\. Juli 2015, Bundesratspräsident Gottfried Kneifel kündigt im Bundesrat den Projektstart an. 
 
-23\. Juli
-2015, Start der offenen Online-Ideensammlung und begleitende
-Diskussionsveranstaltungen zur Frage: Welche rechtlichen und
-politischen Änderungen brauchen wir, um den Digitalen Wandel als Chancen nutzen
-zu können?
+23\. Juli 2015, Start der offenen Online-Ideensammlung und begleitende Diskussionsveranstaltungen zur Frage: Welche rechtlichen und politischen Änderungen brauchen wir, um den Digitalen Wandel als Chancen nutzen zu können?
 
-27\.
-September 2015, Abschluss der ersten Phase. Anschließend Erarbeitung des
-Entwurfs für das Grünbuch. 
+27\. September 2015, Abschluss der ersten Phase. Anschließend Erarbeitung des Entwurfs für das Grünbuch. 
 
-3\.
-November 2015, Veröffentlichung des Entwurfs für das Grünbuch und Start
-der Online-Debatte. 
+3\. November 2015, Veröffentlichung des Entwurfs für das Grünbuch und Start der Online-Debatte. 
 
-15\.
-November 2015, Veröffentlichung des Grünbuchs und Übermittlung an den
-Bundesrat.
+15\. November 2015, Veröffentlichung des Grünbuchs und Übermittlung an den Bundesrat.
 
-Ab 15\.
-November 2015, Debatte auf Basis des Grünbuchs in diversen Diskussionsforen
-und Veranstaltungen.
+Ab 15\. November 2015, Debatte auf Basis des Grünbuchs in diversen Diskussionsforen und Veranstaltungen.
 
-18\.
-November 2015, Parlamentarische Enquete 
+18\. November 2015, Parlamentarische Enquete 
 
-Dezember
-2015, Beschlussfassung einer Entschließung des Bundesrates mit Forderungen an
-die Bundesregierung.
+Dezember 2015, Beschlussfassung einer Entschließung des Bundesrates mit Forderungen an die Bundesregierung.
 
-Dezember
-2015, Projektabschluss 
+Dezember 2015, Projektabschluss 
 
 _Fotos: Parlamentsdirektion/Bildagentur Zolles KG/Mike Ranz, Parlamentsdirektion/Michael Buchner_
 

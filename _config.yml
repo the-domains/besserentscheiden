@@ -14,7 +14,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: '#besserentscheiden . Ihre Pnyx, Ihre Plattform zur Stärkung der Demokratie'
+title: '#besserentscheiden . Ihre Pnyx, Ihre Dialogplattform zur Stärkung der Demokratie'
 cta:
   domain: null
   bucket: null

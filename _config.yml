@@ -1,11 +1,7 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+name: '#besserentscheiden'
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.75381
 collections:
   - index:
       path: /
@@ -18,24 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 1
-title: '#besserentscheiden . Ihre Pnyx, Ihre Plattform für bessere politische Entscheidungen'
+title: '#besserentscheiden . Ihre Pnyx, Ihre Plattform zur Stärkung der Demokratie'
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5625
-  brandStrength: 0.5
-  rhythmicContrast: 0.75
   brandColors:
     - '#c63328'
     - '#050301'
     - '#ffffff'
     - '#d9947e'
     - '#4a4d50'
+  brandStrength: 0.5
   lightness: 0.6875
+  saturation: 0.5625
+  rhythmicContrast: 0.75
 purpose: []
-favicon: null
-name: '#besserentscheiden'
-typography_spectrum: 0.75381

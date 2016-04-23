@@ -4,11 +4,13 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Machen Sie #besserentscheiden zu Ihrer Plattform und eines unserer Projekte zu Ihrem Projekt. '
-datePublished: '2016-04-23T23:36:41.773Z'
-dateModified: '2016-04-23T23:36:33.915Z'
+description: 'Machen Sie #besserentscheiden zu Ihrer Plattform und eines unserer Projekte zu Ihrem Projekt. Nehmen Sie mit uns Kontakt auf, wenn Sie #besserentscheiden unterstützen wollen: office@besserentscheiden.at'
+datePublished: '2016-04-23T23:42:51.051Z'
+dateModified: '2016-04-23T23:42:47.711Z'
 title: Beteiligen Sie sich am Dialog
 author: []
+sourcePath: _posts/2016-04-23-beteiligen-sie-sich-am-dialog.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,21 +18,15 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-23-beteiligen-sie-sich-am-dialog.md
-published: true
 url: beteiligen-sie-sich-am-dialog/index.html
 _type: Article
 
 ---
 # Beteiligen Sie sich am Dialog
 
-Machen Sie \#besserentscheiden zu Ihrer Plattform und eines unserer Projekte zu Ihrem Projekt. 
+Machen Sie \#besserentscheiden zu Ihrer Plattform und eines unserer Projekte zu Ihrem Projekt. Nehmen Sie mit uns Kontakt auf, wenn Sie \#besserentscheiden unterstützen wollen: office@besserentscheiden.at
 
-Bleiben Sie mit \#besserentscheiden auf [Facebook][0] und/oder [Twitter][1] in Kontakt. Wir informieren Sie über unsere nächsten Schritte. Wir laden Sie zu allen unseren Diskussionen und Konsultationen ein. 
-
-Nehmen Sie mit uns Kontakt auf, wenn Sie \#besserentscheiden unterstützen wollen. office@besserentscheiden.at
-
-Wir hoffen auf Ihre Unterstützung. Mit Ihrer Mitarbeit wird diese Initiative ihre Ziele erreichen. Danke für Ihr Interesse.
+Bleiben Sie mit \#besserentscheiden auf [Facebook][0] und/oder [Twitter][1] in Kontakt. Wir informieren Sie über unsere nächsten Schritte. Wir laden Sie zu allen unseren Diskussionen und Konsultationen ein. Wir hoffen auf Ihre Unterstützung. Mit Ihrer Mitarbeit wird diese Initiative ihre Ziele erreichen. Danke für Ihr Interesse.
 
 
 

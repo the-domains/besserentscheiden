@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-24T19:40:59.946Z'
-dateModified: '2016-04-24T19:40:57.309Z'
+datePublished: '2016-04-24T20:17:27.578Z'
+dateModified: '2016-04-24T20:17:20.200Z'
 title: 'Digitaler Wandel, Bildung und Arbeit'
 author: []
 sourcePath: _posts/2016-04-11-digitaler-wandel-bildung-und-arbeit.md

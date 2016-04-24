@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Nehmen Sie mit uns Kontakt auf, wenn Sie #besserentscheiden unterstützen wollen: office@besserentscheiden.at'
-datePublished: '2016-04-23T23:48:24.763Z'
-dateModified: '2016-04-23T23:48:10.199Z'
+datePublished: '2016-04-24T13:28:38.418Z'
+dateModified: '2016-04-24T13:28:31.654Z'
 title: Mitmachen
 author: []
 sourcePath: _posts/2016-04-23-beteiligen-sie-sich-am-dialog.md

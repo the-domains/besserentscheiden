@@ -6,8 +6,8 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: 'Für den Inhalt verantwortlich: Andreas Kovar'
-datePublished: '2016-04-24T13:56:08.235Z'
-dateModified: '2016-04-24T13:56:02.627Z'
+datePublished: '2016-04-24T13:57:32.890Z'
+dateModified: '2016-04-24T13:56:13.303Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-09-impressum.md

@@ -4,12 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: null
 inLanguage: null
-starred: false
 keywords: []
-description: "Für den Inhalt verantwortlich:\_Andreas Kovar"
-datePublished: '2016-04-10T07:42:27.915Z'
-dateModified: '2016-04-10T07:42:24.439Z'
-title: Impressum
+description: 'Für den Inhalt verantwortlich: Andreas Kovar'
+datePublished: '2016-04-24T13:56:08.235Z'
+dateModified: '2016-04-24T13:56:02.627Z'
+title: ''
 author: []
 sourcePath: _posts/2016-04-09-impressum.md
 published: true
@@ -19,6 +18,7 @@ publisher:
   domain: null
   url: null
   favicon: null
+starred: false
 _type: Blurb
 
 ---
@@ -26,7 +26,7 @@ _type: Blurb
 
 Für den Inhalt verantwortlich: Andreas Kovar
 
-Kontaktinformation: \#besserentscheiden, Dorotheergasse 7,  A-1010 Wien, T: +43 1 5229220, office@besserentscheiden.at
+Kontaktinformation: \#besserentscheiden, Dorotheergasse 7, A-1010 Wien, T: +43 1 5229220, office@besserentscheiden.at
 
 [][0]
 

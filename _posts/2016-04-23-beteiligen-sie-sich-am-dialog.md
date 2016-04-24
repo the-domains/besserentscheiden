@@ -1,12 +1,12 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
 description: 'Nehmen Sie mit uns Kontakt auf, wenn Sie #besserentscheiden unterstützen wollen: office@besserentscheiden.at'
-datePublished: '2016-04-24T13:31:44.361Z'
-dateModified: '2016-04-24T13:31:41.259Z'
+datePublished: '2016-04-24T13:54:53.665Z'
+dateModified: '2016-04-24T13:54:51.113Z'
 title: Mitmachen
 author: []
 sourcePath: _posts/2016-04-23-beteiligen-sie-sich-am-dialog.md
@@ -19,7 +19,7 @@ publisher:
   favicon: null
 starred: false
 url: beteiligen-sie-sich-am-dialog/index.html
-_type: WebPage
+_type: Article
 
 ---
 # Mitmachen

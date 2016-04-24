@@ -1,13 +1,12 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: 'Für den Inhalt verantwortlich: Andreas Kovar'
-datePublished: '2016-04-24T13:57:32.890Z'
-dateModified: '2016-04-24T13:56:13.303Z'
+datePublished: '2016-04-24T20:16:53.227Z'
+dateModified: '2016-04-24T19:40:21.108Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-09-impressum.md
@@ -19,7 +18,8 @@ publisher:
   url: null
   favicon: null
 starred: false
-_type: Blurb
+url: impressum/index.html
+_type: Article
 
 ---
 # Impressum

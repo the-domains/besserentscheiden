@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Die Idee ist keinesfalls neu. "Keine Alternativen zu hören, heißt keine Wahlfreiheit zu haben", so wird Xerxes - laut Herodot - von Artabanos gewarnt.'
-datePublished: '2016-04-25T07:29:56.912Z'
-dateModified: '2016-04-25T07:29:53.093Z'
+datePublished: '2016-04-25T07:31:03.183Z'
+dateModified: '2016-04-25T07:31:00.186Z'
 title: Warum Meinungsvielfalt?
 author: []
 sourcePath: _posts/2016-04-11-warum-meinungsvielfalt.md

@@ -4,7 +4,7 @@
         <description><![CDATA[#besserentscheiden . Ihre Pnyx, Ihre Dialogplattform zur Stärkung der Demokratie]]></description>
         <link>http://www.besserentscheiden.at/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 07:31:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 07:32:09 GMT</lastBuildDate>
         <atom:link href="http://www.besserentscheiden.at/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Mitmachen]]></title>
@@ -28,6 +28,13 @@
             <pubDate>Sat, 23 Apr 2016 15:51:30 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Was ist eine Pnyx und was will #besserentscheiden?]]></title>
+            <description><![CDATA[<p>Die Plattform #besserentscheiden wurde von Menschen wie Ihnen gestartet. Menschen die sich ihrer Verantwortung für Demokratie, Parlamentarismus, Rechtsstaat und eine konstruktive politische Kultur bewusst sind.</p>]]></description>
+            <link>http://www.besserentscheiden.at/pnyx/index.html</link>
+            <guid isPermaLink="false">0aa562ca-c162-4bfa-881d-22ccdab73f53</guid>
+            <pubDate>Mon, 25 Apr 2016 07:32:08 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Warum Meinungsvielfalt?]]></title>
             <description><![CDATA[<article><h1>Warum Meinungsvielfalt?</h1><p>Die Idee ist keinesfalls neu. "Keine Alternativen zu hören, heißt keine Wahlfreiheit zu haben", so wird Xerxes - laut Herodot - von Artabanos gewarnt.</p></article>]]></description>
             <link>http://www.besserentscheiden.at/warum-meinungsvielfalt/index.html</link>
@@ -47,13 +54,6 @@
             <link>http://www.besserentscheiden.at/impressum/index.html</link>
             <guid isPermaLink="false">520d178b-27c9-4e3a-91f7-18a4d8e10a5c</guid>
             <pubDate>Sun, 24 Apr 2016 20:16:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Was ist eine Pnyx und was will #besserentscheiden?]]></title>
-            <description><![CDATA[<p>Die Plattform #besserentscheiden wurde von Menschen wie Ihnen gestartet. Menschen die sich ihrer Verantwortung für Demokratie, Parlamentarismus, Rechtsstaat und eine konstruktive politische Kultur bewusst sind.</p>]]></description>
-            <link>http://www.besserentscheiden.at/pnyx/index.html</link>
-            <guid isPermaLink="false">0aa562ca-c162-4bfa-881d-22ccdab73f53</guid>
-            <pubDate>Thu, 14 Apr 2016 15:14:09 GMT</pubDate>
         </item>
     </channel>
 </rss>

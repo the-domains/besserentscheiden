@@ -2,17 +2,17 @@ title: >-
   #besserentscheiden . Ihre Pnyx, Ihre Dialogplattform zur Stärkung der
   Demokratie
 cta:
+  domain: null
   version: null
   bucket: null
-  domain: null
-layout_spectrum: 0.50525
+layout_spectrum: 0.05764411
 favicon: null
 name: '#besserentscheiden'
 purpose: []
 analytics:
-  twitter: null
-  google: null
   facebook: null
+  google: null
+  twitter: null
 opengraph:
   image: null
   type: null
@@ -30,14 +30,14 @@ collections:
       path: /rss.xml
       number: 10
 color:
-  brandStrength: 0.5
-  lightness: 0.6875
-  saturation: 0.6875
-  rhythmicContrast: 0.75
+  brandStrength: 1
+  lightness: 0.4711779
+  saturation: 1
+  rhythmicContrast: 0.8446115
   brandColors:
     - '#672934'
     - '#4B1723'
     - '#9C5460'
     - '#AF6D71'
     - '#24090C'
-typography_spectrum: 0.49323
+typography_spectrum: 0.3527569

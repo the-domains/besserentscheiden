@@ -17,14 +17,14 @@ collections:
 color:
   saturation: 0.7078853
   brandStrength: 0.5017921
-  rhythmicContrast: 0.6810036
+  lightness: 0.7885305
   brandColors:
     - '#672934'
     - '#4B1723'
     - '#9C5460'
     - '#AF6D71'
     - '#24090C'
-  lightness: 0.7885305
+  rhythmicContrast: 0.8673835
 cta:
   version: null
   bucket: null
@@ -33,8 +33,8 @@ analytics:
   twitter: null
   facebook: null
   google: null
-favicon: null
 name: '#besserentscheiden'
+favicon: null
 opengraph:
   image: null
   type: null

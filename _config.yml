@@ -33,11 +33,11 @@ analytics:
   twitter: null
   facebook: null
   google: null
-name: '#besserentscheiden'
 favicon: null
+name: '#besserentscheiden'
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.3620072
-layout_spectrum: 0.6505376
+layout_spectrum: 0.8781362

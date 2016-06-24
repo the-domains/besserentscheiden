@@ -8,22 +8,22 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
   saturation: 0.4946237
   brandStrength: 0.5017921
   lightness: 0.7885305
   brandColors:
-    - '#682127'
-    - '#5A3723'
-    - '#993B3B'
-    - '#D3A17C'
-    - '#2C0E10'
+    - '#F3E6D9'
+    - '#97413F'
+    - '#230609'
+    - '#A59E96'
+    - '#CE7770'
   rhythmicContrast: 0.6827957
 cta:
   version: null
@@ -33,8 +33,8 @@ analytics:
   twitter: null
   facebook: null
   google: null
-favicon: null
 name: '#besserentscheiden'
+favicon: null
 opengraph:
   image: null
   type: null

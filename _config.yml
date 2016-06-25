@@ -16,7 +16,7 @@ collections:
       number: 10
 color:
   saturation: 1
-  brandStrength: 0.5035842
+  brandStrength: 0.4498208
   lightness: 1
   brandColors:
     - '#ED018C'

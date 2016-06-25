@@ -8,22 +8,22 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.4946237
   brandStrength: 0.5017921
   lightness: 0.7885305
   brandColors:
-    - '#D3DDE6'
-    - '#777C81'
-    - '#B0B3C0'
-    - '#842349'
-    - '#170614'
+    - '#F9D400'
+    - '#FFFFFF'
+    - '#BD1F24'
+    - '#00954C'
+    - '#41419B'
   rhythmicContrast: 0.6827957
 cta:
   version: null

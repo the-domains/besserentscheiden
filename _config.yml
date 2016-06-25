@@ -20,10 +20,10 @@ color:
   lightness: 0.7885305
   brandColors:
     - '#F9D400'
-    - '#FFFFFF'
     - '#BD1F24'
     - '#00954C'
-    - '#41419B'
+    - '#FFFFFF'
+    - '#004422'
   rhythmicContrast: 0.6827957
 cta:
   version: null
@@ -33,8 +33,8 @@ analytics:
   twitter: null
   facebook: null
   google: null
-favicon: null
 name: '#besserentscheiden'
+favicon: null
 opengraph:
   image: null
   type: null

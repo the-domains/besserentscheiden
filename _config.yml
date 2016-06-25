@@ -15,16 +15,16 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  saturation: 0
+  saturation: 1
   brandStrength: 0.4964158
-  lightness: 0.6469534
+  lightness: 1
   brandColors:
     - '#ED018C'
     - '#F6D703'
     - '#3E3A9B'
     - '#05974C'
     - '#ACCE29'
-  rhythmicContrast: 0.4784946
+  rhythmicContrast: 0.4802867
 cta:
   version: null
   bucket: null
@@ -33,8 +33,8 @@ analytics:
   twitter: null
   facebook: null
   google: null
-name: '#besserentscheiden'
 favicon: null
+name: '#besserentscheiden'
 opengraph:
   image: null
   type: null

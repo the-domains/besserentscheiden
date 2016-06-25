@@ -16,7 +16,7 @@ collections:
       number: 10
 color:
   saturation: 1
-  brandStrength: 0.6845878
+  brandStrength: 0.5035842
   lightness: 1
   brandColors:
     - '#ED018C'
@@ -33,8 +33,8 @@ analytics:
   twitter: null
   facebook: null
   google: null
-name: '#besserentscheiden'
 favicon: null
+name: '#besserentscheiden'
 opengraph:
   image: null
   type: null

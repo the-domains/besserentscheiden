@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-24T20:28:49.104Z'
+datePublished: '2016-08-24T20:35:37.013Z'
 sourcePath: _posts/2016-04-09-digitaler-wandel-und-politik.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-24T20:28:48.522Z'
+dateModified: '2016-08-24T20:35:36.004Z'
 title: Digitaler Wandel und Politik
 publisher: {}
 description: ''

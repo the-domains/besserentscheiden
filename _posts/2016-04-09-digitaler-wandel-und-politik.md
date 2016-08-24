@@ -17,8 +17,8 @@ description: >-
   ein Internet der Dinge und neue Formen der Logistik. Ob diese Phase von Europa
   und Österreich besser genutzt werden kann, ist derzeit noch offen und für das
   zukünftige Wachstum von Bedeutung.
-datePublished: '2016-08-24T20:02:12.925Z'
-dateModified: '2016-08-24T20:02:07.314Z'
+datePublished: '2016-08-24T20:03:01.442Z'
+dateModified: '2016-08-24T20:02:54.189Z'
 title: ''
 via: {}
 sourcePath: _posts/2016-04-09-digitaler-wandel-und-politik.md
@@ -32,8 +32,6 @@ url: erarbeitung-eines-grunbuchs-zur-vorbereitung-der-bundesratse/index.html
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ba7754c016e21594f45f4caae439fe8aebf59f69.jpg)
-
 # Digitaler Wandel und Politik
 
 Erarbeitung eines Grünbuchs zur Vorbereitung der Bundesratsenquete "Digitaler Wandel und Politik" im November 2015 und als Grundlage für weitere politische Diskussionen und Entscheidungen.
@@ -42,6 +40,7 @@ Erarbeitung eines Grünbuchs zur Vorbereitung der Bundesratsenquete "Digitaler W
 ## Ausgangspunkt:
 
 Mit der zunehmenden Digitalisierung bekommen Menschen den Zugriff auf die Produktion und den Vertrieb von Produkten. Was mit dem Desktop‐Publishing in den 1980‐ern begonnen hat, hat sich mit dem Internet zu einer Neuen Wirtschaft immaterieller Produkte und Serviceleistungen weiterentwickelt. Globales Focal Center dieser Entwicklung war und ist die Region Silicon Valley. Trotz der rapiden Entwicklung wird derzeit nur ein geringer Teil der Wertschöpfung schon „im Netz" erzielt. 10 Prozent des Handels werden online abgewickelt. Jetzt greift die Digitalisierung auf die Produktion realer Güter über und ermöglicht eine neue Industrie. Gleichzeitig entwickeln sich neue Wertschöpfungsketten, ein Internet der Dinge und neue Formen der Logistik. Ob diese Phase von Europa und Österreich besser genutzt werden kann, ist derzeit noch offen und für das zukünftige Wachstum von Bedeutung.
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ba7754c016e21594f45f4caae439fe8aebf59f69.jpg)
 
 ## Die zentrale Fragestellung:
 

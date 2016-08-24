@@ -5,20 +5,20 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-24T17:43:28.412Z'
-dateModified: '2016-08-24T17:43:22.654Z'
+datePublished: '2016-08-24T17:50:12.150Z'
+dateModified: '2016-08-24T17:49:33.940Z'
 title: ''
 author:
   - name: ''
     url: ''
 sourcePath: _posts/2016-04-09-digitaler-wandel-und-politik.md
+via: {}
 authors: []
 publisher:
   name: ''
   domain: null
   url: ''
   favicon: null
-via: {}
 starred: true
 url: digitaler-wandel-und-politik/index.html
 _type: Article

@@ -1,21 +1,17 @@
 ---
-datePublished: '2016-08-24T20:39:53.136Z'
-sourcePath: _posts/2016-04-09-digitaler-wandel-und-politik.md
-inFeed: true
-authors: []
-hasPage: true
-keywords: []
-author: []
-via: {}
-dateModified: '2016-08-24T20:39:23.824Z'
+id: d9b01e9e-cb52-4616-98ac-b59996e6bb23
+dateModified: '2016-08-24T22:30:56.397Z'
 title: Digitaler Wandel und Politik
-publisher: {}
+datePublished: '2016-08-24T22:30:57.146Z'
+author: []
+hasPage: true
 description: ''
-inLanguage: null
-inNav: true
+publisher: {}
+via: {}
 starred: true
+sourcePath: _posts/2016-04-09-digitaler-wandel-und-politik.md
 url: digitaler-wandel-und-politik/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Digitaler Wandel und Politik

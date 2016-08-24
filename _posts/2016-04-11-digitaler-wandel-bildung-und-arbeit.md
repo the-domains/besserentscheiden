@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-24T22:37:53.279Z'
+datePublished: '2016-08-24T22:49:29.947Z'
 sourcePath: _posts/2016-04-11-digitaler-wandel-bildung-und-arbeit.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-24T22:37:52.728Z'
+dateModified: '2016-08-24T22:49:29.334Z'
 title: 'Digitaler Wandel, Bildung und Arbeit'
 id: aa316e26-99c2-4184-8e09-55656376f657
 publisher: {}
@@ -19,11 +19,7 @@ _type: Article
 
 ## Dieses Projekt ist in Vorbereitung.
 
-# Digitaler Wandel, Bildung und Arbeit
-
-## Dieses Projekt ist in Vorbereitung.
-
-Die Auswirkungen des Digitalen Wandel auf die Arbeitswelt haben eine zentrale Bedeutung für die weitere Entwicklung unserer Gesellschaft. Bildung ist der Schlüssel, um Beschäftigung und Arbeitseinkommen zu erhalten.
+### Die Auswirkungen des Digitalen Wandel auf die Arbeitswelt haben eine zentrale Bedeutung für die weitere Entwicklung unserer Gesellschaft. Bildung ist der Schlüssel, um Beschäftigung und Arbeitseinkommen zu erhalten.
 
 Der Digitale Wandel wird die Art, wie wir künftig lernen und Wissen erwerben und wie die Bildungsinstitutionen - von den Kindergärten über die Schulen bis zu den Universitäten - organisiert sein werden, radikal verändern.
 

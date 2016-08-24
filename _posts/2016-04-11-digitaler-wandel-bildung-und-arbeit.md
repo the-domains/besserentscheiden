@@ -1,17 +1,18 @@
 ---
-id: aa316e26-99c2-4184-8e09-55656376f657
-dateModified: '2016-08-24T22:31:28.975Z'
-title: 'Digitaler Wandel, Bildung und Arbeit'
-datePublished: '2016-08-24T22:31:29.690Z'
-author: []
-hasPage: true
-description: ''
-publisher: {}
-via: {}
-starred: false
+datePublished: '2016-08-24T22:37:53.279Z'
 sourcePath: _posts/2016-04-11-digitaler-wandel-bildung-und-arbeit.md
+inFeed: true
+hasPage: true
+author: []
+via: {}
+dateModified: '2016-08-24T22:37:52.728Z'
+title: 'Digitaler Wandel, Bildung und Arbeit'
+id: aa316e26-99c2-4184-8e09-55656376f657
+publisher: {}
+description: ''
+starred: false
 url: digitaler-wandel-bildung-und-arbeit/index.html
-_type: Blurb
+_type: Article
 
 ---
 # Digitaler Wandel, Bildung und Arbeit

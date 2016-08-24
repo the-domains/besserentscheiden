@@ -1,20 +1,34 @@
-title: '#besserentscheiden . Demokratie beleben, Parlamente stärken.'
-cta:
-  version: null
-  bucket: null
-  domain: null
-layout_spectrum: 0.99904
-favicon: null
-name: '#besserentscheiden'
-purpose: []
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+typography_spectrum: 0.6860902
+color:
+  brandStrength: 0.495614
+  lightness: 0.8170426
+  saturation: 1
+  rhythmicContrast: 1
+  brandColors:
+    - '#C63328'
+    - '#050301'
+    - '#F6F7FB'
+    - '#C7BDBC'
+    - '#5C626C'
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.99904
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: '#besserentscheiden'
+cta:
+  version: null
+  bucket: null
+  domain: null
+navigation:
+  - name: Impressum
+    id: 520d178b-27c9-4e3a-91f7-18a4d8e10a5c
+    type: content
+favicon: null
 collections:
   - index:
       paginate: true
@@ -27,15 +41,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-color:
-  brandStrength: 0.495614
-  lightness: 0.8170426
-  saturation: 1
-  rhythmicContrast: 1
-  brandColors:
-    - '#C63328'
-    - '#050301'
-    - '#F6F7FB'
-    - '#C7BDBC'
-    - '#5C626C'
-typography_spectrum: 0.6860902
+title: '#besserentscheiden . Demokratie beleben, Parlamente stärken.'
+purpose: []

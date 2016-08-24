@@ -1,7 +1,7 @@
 name: '#besserentscheiden'
 favicon: null
 layout_spectrum: 0.99904
-typography_spectrum: 1
+typography_spectrum: 0.75241
 title: '#besserentscheiden . Demokratie beleben, Parlamente stärken.'
 collections:
   - index:
@@ -37,5 +37,5 @@ color:
   brandStrength: 0.6875
   lightness: 0.75
   saturation: 0.875
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0.75
 purpose: []

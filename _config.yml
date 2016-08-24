@@ -24,10 +24,6 @@ cta:
   version: null
   bucket: null
   domain: null
-navigation:
-  - name: 'Digitaler Wandel, Bildung und Arbeit'
-    id: aa316e26-99c2-4184-8e09-55656376f657
-    type: content
 favicon: null
 collections:
   - index:

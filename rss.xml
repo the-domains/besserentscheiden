@@ -4,7 +4,7 @@
         <description><![CDATA[#besserentscheiden . Demokratie beleben, Parlamente stärken.]]></description>
         <link>http://www.besserentscheiden.at/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Aug 2016 20:37:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2016 20:37:39 GMT</lastBuildDate>
         <atom:link href="http://www.besserentscheiden.at/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Digitaler Wandel und Politik]]></title>
@@ -19,6 +19,13 @@
             <link>http://www.besserentscheiden.at/offene-gesetzgebung/index.html</link>
             <guid isPermaLink="false">c7e6e600-f712-4d30-b026-2f36ee30baf5</guid>
             <pubDate>Wed, 24 Aug 2016 20:35:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mitmachen]]></title>
+            <description><![CDATA[<article><h1>Mitmachen</h1><p>Nehmen Sie mit uns Kontakt auf, wenn Sie #besserentscheiden unterstützen wollen: office@besserentscheiden.at</p></article>]]></description>
+            <link>http://www.besserentscheiden.at/beteiligen-sie-sich-am-dialog/index.html</link>
+            <guid isPermaLink="false">14a9b1a2-0574-498a-a492-c8d688d85e90</guid>
+            <pubDate>Wed, 24 Aug 2016 20:37:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Impressum]]></title>
@@ -47,13 +54,6 @@
             <link>http://www.besserentscheiden.at/digitaler-wandel-bildung-und-arbeit/index.html</link>
             <guid isPermaLink="false">aa316e26-99c2-4184-8e09-55656376f657</guid>
             <pubDate>Wed, 24 Aug 2016 19:46:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mitmachen]]></title>
-            <description><![CDATA[<article><h1>Mitmachen</h1><p>Nehmen Sie mit uns Kontakt auf, wenn Sie #besserentscheiden unterstützen wollen: office@besserentscheiden.at</p></article>]]></description>
-            <link>http://www.besserentscheiden.at/beteiligen-sie-sich-am-dialog/index.html</link>
-            <guid isPermaLink="false">14a9b1a2-0574-498a-a492-c8d688d85e90</guid>
-            <pubDate>Mon, 25 Apr 2016 10:49:51 GMT</pubDate>
         </item>
     </channel>
 </rss>

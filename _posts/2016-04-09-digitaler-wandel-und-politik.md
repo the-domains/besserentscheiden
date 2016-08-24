@@ -17,8 +17,8 @@ description: >-
   ein Internet der Dinge und neue Formen der Logistik. Ob diese Phase von Europa
   und Österreich besser genutzt werden kann, ist derzeit noch offen und für das
   zukünftige Wachstum von Bedeutung.
-datePublished: '2016-08-24T20:06:41.846Z'
-dateModified: '2016-08-24T20:05:57.804Z'
+datePublished: '2016-08-24T20:06:57.417Z'
+dateModified: '2016-08-24T20:06:47.607Z'
 title: ''
 via: {}
 sourcePath: _posts/2016-04-09-digitaler-wandel-und-politik.md

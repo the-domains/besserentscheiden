@@ -28,9 +28,6 @@ navigation:
   - name: Digitaler Wandel und Politik
     id: 1ffbd5d8-6a3f-4e30-aa85-753c3ec44c53
     type: content
-  - name: Offene Gesetzgebung
-    id: c7e6e600-f712-4d30-b026-2f36ee30baf5
-    type: content
 favicon: null
 collections:
   - index:

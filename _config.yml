@@ -28,6 +28,9 @@ navigation:
   - name: Impressum
     id: 520d178b-27c9-4e3a-91f7-18a4d8e10a5c
     type: content
+  - name: Offene Gesetzgebung
+    id: c7e6e600-f712-4d30-b026-2f36ee30baf5
+    type: content
 favicon: null
 collections:
   - index:

@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-24T20:20:08.911Z'
+datePublished: '2016-08-24T20:26:01.111Z'
 sourcePath: _posts/2016-04-09-digitaler-wandel-und-politik.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-24T20:20:08.251Z'
+dateModified: '2016-08-24T20:25:59.654Z'
 title: Digitaler Wandel und Politik
 publisher: {}
 description: ''
@@ -21,7 +21,7 @@ _type: Article
 # Digitaler Wandel und Politik
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/66c1d04b-148f-481b-9028-e1d2d47c167a.jpg)
 
-## Erarbeitung eines Grünbuchs zur Vorbereitung der Bundesratsenquete "Digitaler Wandel und Politik" im November 2015 und als Grundlage für weitere politische Diskussionen und Entscheidungen.
+### Erarbeitung eines Grünbuchs zur Vorbereitung der Bundesratsenquete "Digitaler Wandel und Politik" im November 2015 und als Grundlage für weitere politische Diskussionen und Entscheidungen.
 
 # Digitaler Wandel und Politik
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/01d6265f31ba7de0868d3a0d5568a57ae05bde4d.jpg)

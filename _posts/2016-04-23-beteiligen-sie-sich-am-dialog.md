@@ -1,22 +1,20 @@
 ---
-inFeed: true
-hasPage: true
-inNav: true
-inLanguage: null
-keywords: []
-description: 'Nehmen Sie mit uns Kontakt auf, wenn Sie #besserentscheiden unterstützen wollen: office@besserentscheiden.at'
-datePublished: '2016-04-25T10:49:51.943Z'
-dateModified: '2016-04-25T10:49:21.797Z'
-title: Mitmachen
-author: []
+datePublished: '2016-08-24T20:37:37.848Z'
 sourcePath: _posts/2016-04-23-beteiligen-sie-sich-am-dialog.md
-published: true
+inFeed: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+hasPage: true
+keywords: []
+author: []
+via: {}
+dateModified: '2016-08-24T20:37:30.457Z'
+title: Mitmachen
+publisher: {}
+description: >-
+  Nehmen Sie mit uns Kontakt auf, wenn Sie #besserentscheiden unterstützen
+  wollen: office@besserentscheiden.at
+inLanguage: null
+inNav: true
 starred: false
 url: beteiligen-sie-sich-am-dialog/index.html
 _type: Article
@@ -26,9 +24,13 @@ _type: Article
 
 Nehmen Sie mit uns Kontakt auf, wenn Sie \#besserentscheiden unterstützen wollen: office@besserentscheiden.at
 
-Bleiben Sie mit \#besserentscheiden auf [Facebook][0] und/oder [Twitter][1] in Kontakt. 
+# Mitmachen
 
-Machen Sie \#besserentscheiden zu Ihrer Plattform und eines unserer Projekte zu Ihrem Projekt. Wir informieren Sie über unsere nächsten Schritte und laden Sie zu allen unseren Diskussionen und Konsultationen ein. 
+Nehmen Sie mit uns Kontakt auf, wenn Sie \#besserentscheiden unterstützen wollen: office@besserentscheiden.at
+
+Bleiben Sie mit \#besserentscheiden auf [Facebook][0] und/oder [Twitter][1] in Kontakt.
+
+Machen Sie \#besserentscheiden zu Ihrer Plattform und eines unserer Projekte zu Ihrem Projekt. Wir informieren Sie über unsere nächsten Schritte und laden Sie zu allen unseren Diskussionen und Konsultationen ein.
 
 Wir hoffen auf Ihre Unterstützung. Mit Ihrer Mitarbeit wird diese Initiative ihre Ziele erreichen. Danke für Ihr Interesse.
 

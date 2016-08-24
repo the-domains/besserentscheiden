@@ -1,13 +1,9 @@
 ---
-authors: []
+inFeed: true
 hasPage: true
-title: >-
-  Erarbeitung eines Grünbuchs zur Vorbereitung der Bundesratsenquete "Digitaler
-  Wandel und Politik" im November 2015 und als Grundlage für weitere politische
-  Diskussionen und Entscheidungen.
-via: {}
-datePublished: '2016-08-24T19:56:31.888Z'
-dateModified: '2016-08-24T19:54:57.427Z'
+inNav: true
+inLanguage: null
+keywords: []
 description: >-
   Mit der zunehmenden Digitalisierung bekommen Menschen den Zugriff auf die
   Produktion und den Vertrieb von Produkten. Was mit dem Desktop‐Publishing in
@@ -21,21 +17,29 @@ description: >-
   ein Internet der Dinge und neue Formen der Logistik. Ob diese Phase von Europa
   und Österreich besser genutzt werden kann, ist derzeit noch offen und für das
   zukünftige Wachstum von Bedeutung.
+datePublished: '2016-08-24T20:00:07.107Z'
+dateModified: '2016-08-24T19:59:51.028Z'
+title: >-
+  Erarbeitung eines Grünbuchs zur Vorbereitung der Bundesratsenquete "Digitaler
+  Wandel und Politik" im November 2015 und als Grundlage für weitere politische
+  Diskussionen und Entscheidungen.
+via: {}
 sourcePath: _posts/2016-04-09-digitaler-wandel-und-politik.md
-publisher: {}
 author:
   - url: ''
     name: ''
-inLanguage: null
-inFeed: true
-inNav: true
-keywords: []
+authors: []
+publisher:
+  name: ''
+  domain: null
+  url: ''
+  favicon: null
 starred: true
 url: erarbeitung-eines-grunbuchs-zur-vorbereitung-der-bundesratse/index.html
 _type: Article
 
 ---
-![Erarbeitung eines Grünbuchs zur Vorbereitung der Bundesratsenquete "Digitaler Wandel und Politik" im November 2015 und als Grundlage für weitere politische Diskussionen und Entscheidungen.](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ba7754c016e21594f45f4caae439fe8aebf59f69.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ba7754c016e21594f45f4caae439fe8aebf59f69.jpg)
 
 # Digitaler Wandel und Politik
 

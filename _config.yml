@@ -1,41 +1,41 @@
-name: '#besserentscheiden'
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.29769
 title: '#besserentscheiden . Demokratie beleben, Parlamente stärken.'
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+    permalink:
+      path: '/:title/'
 color:
+  saturation: 1
+  brandStrength: 0.5
+  rhythmicContrast: 1
   brandColors:
     - '#C63328'
     - '#050301'
     - '#F6F7FB'
     - '#C7BDBC'
     - '#5C626C'
-  brandStrength: 0.5
   lightness: 1
-  saturation: 1
-  rhythmicContrast: 1
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+name: '#besserentscheiden'
+favicon: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.29769
+layout_spectrum: 1

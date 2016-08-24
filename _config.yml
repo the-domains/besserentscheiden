@@ -34,9 +34,6 @@ navigation:
   - name: 'Digitaler Wandel, Bildung und Arbeit'
     id: aa316e26-99c2-4184-8e09-55656376f657
     type: content
-  - name: Impressum
-    id: 520d178b-27c9-4e3a-91f7-18a4d8e10a5c
-    type: content
 favicon: null
 collections:
   - index:

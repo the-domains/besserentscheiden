@@ -24,6 +24,10 @@ cta:
   version: null
   bucket: null
   domain: null
+navigation:
+  - name: Digitaler Wandel und Politik
+    id: d9b01e9e-cb52-4616-98ac-b59996e6bb23
+    type: content
 favicon: null
 collections:
   - index:

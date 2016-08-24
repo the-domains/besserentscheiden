@@ -1,8 +1,8 @@
 ---
-datePublished: '2016-08-24T20:42:52.059Z'
+datePublished: '2016-08-24T22:20:21.912Z'
 author: []
 via: {}
-dateModified: '2016-08-24T20:42:51.633Z'
+dateModified: '2016-08-24T22:20:21.428Z'
 title: Warum Meinungsvielfalt?
 id: 86d9fd95-8182-436c-b592-16aa2badf7c3
 publisher: {}

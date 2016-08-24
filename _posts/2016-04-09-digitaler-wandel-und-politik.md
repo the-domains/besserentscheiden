@@ -17,20 +17,16 @@ description: >-
   ein Internet der Dinge und neue Formen der Logistik. Ob diese Phase von Europa
   und Österreich besser genutzt werden kann, ist derzeit noch offen und für das
   zukünftige Wachstum von Bedeutung.
-datePublished: '2016-08-24T20:01:38.715Z'
-dateModified: '2016-08-24T20:01:27.035Z'
-title: Digitaler Wandel und Politik
+datePublished: '2016-08-24T20:02:12.925Z'
+dateModified: '2016-08-24T20:02:07.314Z'
+title: ''
 via: {}
 sourcePath: _posts/2016-04-09-digitaler-wandel-und-politik.md
 author:
   - url: ''
     name: ''
 authors: []
-publisher:
-  name: ''
-  domain: null
-  url: ''
-  favicon: null
+publisher: {}
 starred: true
 url: erarbeitung-eines-grunbuchs-zur-vorbereitung-der-bundesratse/index.html
 _type: Article

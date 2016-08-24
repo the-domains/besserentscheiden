@@ -4,7 +4,7 @@
         <description><![CDATA[#besserentscheiden . Demokratie beleben, Parlamente stärken.]]></description>
         <link>http://www.besserentscheiden.at/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Aug 2016 20:28:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2016 20:31:11 GMT</lastBuildDate>
         <atom:link href="http://www.besserentscheiden.at/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Digitaler Wandel und Politik]]></title>
@@ -19,6 +19,13 @@
             <link>http://www.besserentscheiden.at/offene-gesetzgebung/index.html</link>
             <guid isPermaLink="false">c7e6e600-f712-4d30-b026-2f36ee30baf5</guid>
             <pubDate>Wed, 24 Aug 2016 20:27:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Impressum]]></title>
+            <description><![CDATA[<p>Für den Inhalt verantwortlich: Andreas Kovar</p>]]></description>
+            <link>http://www.besserentscheiden.at/impressum/index.html</link>
+            <guid isPermaLink="false">520d178b-27c9-4e3a-91f7-18a4d8e10a5c</guid>
+            <pubDate>Wed, 24 Aug 2016 20:29:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Was ist eine Pnyx? Was will #besserentscheiden?]]></title>
@@ -47,13 +54,6 @@
             <link>http://www.besserentscheiden.at/beteiligen-sie-sich-am-dialog/index.html</link>
             <guid isPermaLink="false">14a9b1a2-0574-498a-a492-c8d688d85e90</guid>
             <pubDate>Mon, 25 Apr 2016 10:49:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Impressum]]></title>
-            <description><![CDATA[<p>Für den Inhalt verantwortlich: Andreas Kovar</p>]]></description>
-            <link>http://www.besserentscheiden.at/impressum/index.html</link>
-            <guid isPermaLink="false">520d178b-27c9-4e3a-91f7-18a4d8e10a5c</guid>
-            <pubDate>Sun, 24 Apr 2016 20:16:53 GMT</pubDate>
         </item>
     </channel>
 </rss>

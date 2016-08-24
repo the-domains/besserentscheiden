@@ -1,15 +1,15 @@
 ---
 id: d9b01e9e-cb52-4616-98ac-b59996e6bb23
-dateModified: '2016-08-24T22:30:56.397Z'
+dateModified: '2016-08-24T22:31:06.582Z'
 title: Digitaler Wandel und Politik
-datePublished: '2016-08-24T22:30:57.146Z'
+datePublished: '2016-08-24T22:31:07.219Z'
 author: []
 hasPage: true
 description: ''
 publisher: {}
 via: {}
-starred: true
 sourcePath: _posts/2016-04-09-digitaler-wandel-und-politik.md
+starred: true
 url: digitaler-wandel-und-politik/index.html
 _type: Blurb
 

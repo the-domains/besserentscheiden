@@ -17,8 +17,8 @@ description: >-
   ein Internet der Dinge und neue Formen der Logistik. Ob diese Phase von Europa
   und Österreich besser genutzt werden kann, ist derzeit noch offen und für das
   zukünftige Wachstum von Bedeutung.
-datePublished: '2016-08-24T20:04:40.267Z'
-dateModified: '2016-08-24T20:04:33.190Z'
+datePublished: '2016-08-24T20:06:41.846Z'
+dateModified: '2016-08-24T20:05:57.804Z'
 title: ''
 via: {}
 sourcePath: _posts/2016-04-09-digitaler-wandel-und-politik.md
@@ -33,9 +33,9 @@ _type: Article
 
 ---
 # Digitaler Wandel und Politik
+![Bundesratspräsident Kneifel startet das Projekt "Digitaler Wandel und Politik"](https://s3-us-west-2.amazonaws.com/the-grid-img/p/01d6265f31ba7de0868d3a0d5568a57ae05bde4d.jpg)
 
 Erarbeitung eines Grünbuchs zur Vorbereitung der Bundesratsenquete "Digitaler Wandel und Politik" im November 2015 und als Grundlage für weitere politische Diskussionen und Entscheidungen.
-![Bundesratspräsident Kneifel startet das Projekt "Digitaler Wandel und Politik"](https://s3-us-west-2.amazonaws.com/the-grid-img/p/01d6265f31ba7de0868d3a0d5568a57ae05bde4d.jpg)
 
 ## Ausgangspunkt:
 

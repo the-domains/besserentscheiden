@@ -25,9 +25,6 @@ cta:
   bucket: null
   domain: null
 navigation:
-  - name: Digitaler Wandel und Politik
-    id: d9b01e9e-cb52-4616-98ac-b59996e6bb23
-    type: content
   - name: Offene Gesetzgebung
     id: c7e6e600-f712-4d30-b026-2f36ee30baf5
     type: content

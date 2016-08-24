@@ -1,25 +1,24 @@
 ---
-keywords: []
-authors: []
-title: Warum Meinungsvielfalt?
+datePublished: '2016-08-24T20:42:52.059Z'
+author: []
 via: {}
+dateModified: '2016-08-24T20:42:51.633Z'
+title: Warum Meinungsvielfalt?
+id: 86d9fd95-8182-436c-b592-16aa2badf7c3
+publisher: {}
 description: >-
   Die Idee ist keinesfalls neu. "Keine Alternativen zu hören, heißt keine
   Wahlfreiheit zu haben", so wird Xerxes - laut Herodot - von Artabanos gewarnt.
-datePublished: '2016-08-24T19:46:02.408Z'
-dateModified: '2016-08-24T19:38:53.800Z'
-inLanguage: null
-sourcePath: _posts/2016-04-11-warum-meinungsvielfalt.md
-author: []
-publisher: {}
-inFeed: true
-inNav: false
-hasPage: true
 starred: false
-url: warum-meinungsvielfalt/index.html
-_type: Article
+sourcePath: _posts/2016-04-11-warum-meinungsvielfalt.md
+inFeed: true
+hasPage: false
+inNav: false
+_type: MediaObject
 
 ---
+# Warum Meinungsvielfalt?
+
 # Warum Meinungsvielfalt?
 
 Die Idee ist keinesfalls neu. "Keine Alternativen zu hören, heißt keine Wahlfreiheit zu haben", so wird Xerxes - laut Herodot - von Artabanos gewarnt.

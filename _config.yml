@@ -1,4 +1,3 @@
-layout_spectrum: 0.7295647922437638
 typography_spectrum: 0.7093148711137474
 color:
   brandStrength: 0.495614
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.7295647922437638
 analytics:
   twitter: null
   google: null
@@ -30,9 +30,6 @@ navigation:
     type: content
   - name: Offene Gesetzgebung
     id: c7e6e600-f712-4d30-b026-2f36ee30baf5
-    type: content
-  - name: 'Digitaler Wandel, Bildung und Arbeit'
-    id: aa316e26-99c2-4184-8e09-55656376f657
     type: content
 favicon: null
 collections:

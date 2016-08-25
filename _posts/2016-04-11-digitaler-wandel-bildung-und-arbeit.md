@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-24T22:49:29.947Z'
+datePublished: '2016-08-25T06:31:12.537Z'
 sourcePath: _posts/2016-04-11-digitaler-wandel-bildung-und-arbeit.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-24T22:49:29.334Z'
+dateModified: '2016-08-25T06:31:11.962Z'
 title: 'Digitaler Wandel, Bildung und Arbeit'
 id: aa316e26-99c2-4184-8e09-55656376f657
 publisher: {}

@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-24T22:26:36.262Z'
+datePublished: '2016-08-25T06:36:15.736Z'
 sourcePath: _posts/2016-04-11-warum-meinungsvielfalt.md
 author: []
 via: {}
-dateModified: '2016-08-24T22:26:32.384Z'
+dateModified: '2016-08-25T06:36:09.264Z'
 title: Warum Meinungsvielfalt?
 id: 86d9fd95-8182-436c-b592-16aa2badf7c3
 publisher: {}

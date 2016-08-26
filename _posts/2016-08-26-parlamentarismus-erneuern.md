@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Das Projekt ist in Vorbereitung.
-datePublished: '2016-08-26T11:35:53.238Z'
-dateModified: '2016-08-26T10:57:32.982Z'
+datePublished: '2016-08-26T11:38:24.957Z'
+dateModified: '2016-08-26T11:38:24.359Z'
 sourcePath: _posts/2016-08-26-parlamentarismus-erneuern.md
 author: []
 via: {}

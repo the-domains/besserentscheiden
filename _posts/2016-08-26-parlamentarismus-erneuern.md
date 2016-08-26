@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-26T11:41:51.672Z'
+datePublished: '2016-08-26T11:42:00.748Z'
 sourcePath: _posts/2016-08-26-parlamentarismus-erneuern.md
 inFeed: true
 authors: []
@@ -7,11 +7,11 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-26T11:41:37.793Z'
+dateModified: '2016-08-26T11:41:52.302Z'
 title: Parlamentarismus erneuern
 id: bcde2bd7-cd22-461c-a3f3-36e8ac149be0
 publisher: {}
-description: Das Projekt ist in Vorbereitung.
+description: Dieses Projekt ist in Vorbereitung
 inLanguage: null
 inNav: false
 starred: false
@@ -21,7 +21,7 @@ _type: Article
 ---
 # Parlamentarismus erneuern
 
-Das Projekt ist in Vorbereitung.
+Dieses Projekt ist in Vorbereitung
 
 ## Herausforderung
 

@@ -4,7 +4,7 @@
         <description><![CDATA[#besserentscheiden]]></description>
         <link>http://www.besserentscheiden.at/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Aug 2016 11:50:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2016 11:51:10 GMT</lastBuildDate>
         <atom:link href="http://www.besserentscheiden.at/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Digitaler Wandel und Politik]]></title>
@@ -19,13 +19,6 @@
             <link>http://www.besserentscheiden.at/offene-gesetzgebung/index.html</link>
             <guid isPermaLink="false">c7e6e600-f712-4d30-b026-2f36ee30baf5</guid>
             <pubDate>Thu, 25 Aug 2016 06:31:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Digitaler Wandel, Bildung und Arbeit]]></title>
-            <description><![CDATA[<article><h1>Digitaler Wandel, Bildung und Arbeit</h1><p>Dieses Projekt ist in Vorbereitung</p></article>]]></description>
-            <link>http://www.besserentscheiden.at/digitaler-wandel-bildung-und-arbeit/index.html</link>
-            <guid isPermaLink="false">ea22dc3a-d100-4035-ba4a-63aac085fc8a</guid>
-            <pubDate>Fri, 26 Aug 2016 11:49:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Was ist eine Pnyx? Was will #besserentscheiden?]]></title>
@@ -47,6 +40,13 @@
             <link>http://www.besserentscheiden.at/parlamentarismus-erneuern/index.html</link>
             <guid isPermaLink="false">4f263afb-ac50-4e3a-add7-e8cb616b1cfe</guid>
             <pubDate>Fri, 26 Aug 2016 11:50:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Digitaler Wandel, Bildung und Arbeit]]></title>
+            <description><![CDATA[<article><h1>Digitaler Wandel, Bildung und Arbeit</h1><p>Dieses Projekt ist in Vorbereitung</p></article>]]></description>
+            <link>http://www.besserentscheiden.at/digitaler-wandel-bildung-und-arbeit/index.html</link>
+            <guid isPermaLink="false">ea22dc3a-d100-4035-ba4a-63aac085fc8a</guid>
+            <pubDate>Fri, 26 Aug 2016 11:51:08 GMT</pubDate>
         </item>
     </channel>
 </rss>

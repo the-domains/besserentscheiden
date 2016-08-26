@@ -1,0 +1,34 @@
+---
+id: aa316e26-99c2-4184-8e09-55656376f657
+dateModified: '2016-08-26T10:09:40.219Z'
+title: 'Digitaler Wandel, Bildung und Arbeit'
+datePublished: '2016-08-26T10:36:11.606Z'
+author: []
+sourcePath: _posts/2016-04-11-digitaler-wandel-bildung-und-arbeit.md
+description: 'Dieses Projekt ist in Vorbereitung '
+publisher: {}
+via: {}
+starred: false
+inFeed: true
+hasPage: false
+inNav: false
+_type: MediaObject
+
+---
+# Digitaler Wandel, Bildung und Arbeit
+
+> Dieses Projekt ist in Vorbereitung 
+
+### Die Auswirkungen des Digitalen Wandel auf die Arbeitswelt haben eine zentrale Bedeutung für die weitere Entwicklung unserer Gesellschaft. Bildung ist der Schlüssel, um Beschäftigung und Arbeitseinkommen zu erhalten.
+
+Der Digitale Wandel wird die Art, wie wir künftig lernen und Wissen erwerben und wie die Bildungsinstitutionen - von den Kindergärten über die Schulen bis zu den Universitäten - organisiert sein werden, radikal verändern.
+
+Wie sich der digitale Wandel auf das Arbeitsleben auswirkt, wird sehr unterschiedlich eingeschätzt. Rund die Hälfte der derzeitigen Jobs sollen durch den Digitalen Wandel beeinflusst werden. Zu diesem Schluss kommt die häufig zitierte Studie von Frey -- Osborne aus dem Jahr 2013\. Sie behaupten nicht -- und dieser Punkt ist essentiell --, dass die Jobs in diesem Ausmaß verloren gehen, sondern „nur" dass sich das Berufsbild und die notwendigen Fähigkeiten, um einen Job auszuführen, ändern werden. Natürlich -- und das legen die genannten Beispiele aus der Sharing Economy oder dem selbstfahrenden Auto nahe --kommt es auch zu Jobverlusten, die beachtlich sein werden.
+
+## Die zentrale Frage:
+
+Welcher Handlungsbedarf besteht für die österreichische Gesetzgebung im Zusammenhang zwischen Digitalem Wandel, Bildung und Arbeit?
+
+## Beteiligung:
+
+Wenn Sie sich an der Diskussion beteiligen wollen, melden Sie sich per EMail an office@besserentscheiden.at

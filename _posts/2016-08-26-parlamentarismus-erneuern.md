@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-26T11:55:19.417Z'
+datePublished: '2016-08-26T11:57:41.895Z'
 sourcePath: _posts/2016-08-26-parlamentarismus-erneuern.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-26T11:55:16.674Z'
+dateModified: '2016-08-26T11:57:32.635Z'
 title: Parlamentarismus erneuern
 id: 4f263afb-ac50-4e3a-add7-e8cb616b1cfe
 publisher: {}
@@ -21,11 +21,19 @@ Dieses Projekt ist in Vorbereitung
 
 ## Herausforderung
 
-In einer deliberativen Demokratie kommt beiden Kammern des Parlaments automatisch die Rolle der zentralen Träger politischer Diskussionen zu. Um diese Funktion erfüllen zu können, braucht es eine Stärkung des Parlamentarismus. Wobei Nationalrat und Bundesrat formal bereits über alle Voraussetzungen verfügen, um diese Aufgabe erfüllen zu können. Es geht offensichtlich nur darum, sich als Institution neu zu erfinden und die gelebte Praxis zu verändern. Kurz gesagt, es geht um ein neues Selbstverständnis. 
+In einer deliberativen Demokratie kommt beiden Kammern des Parlaments automatisch die Rolle der zentralen Träger politischer Diskussionen zu. Um diese Funktion erfüllen zu können, braucht es eine Stärkung des Parlamentarismus. Wobei Nationalrat und Bundesrat formal bereits über alle Voraussetzungen verfügen, um diese Aufgabe erfüllen zu können. Es geht offensichtlich nur darum, sich als Institution neu zu erfinden und die gelebte Praxis zu verändern. 
+
+Kurz gesagt, es geht um ein neues Selbstverständnis. 
 
 ## Zielsetzung des Projekts
 
-In Nachfolge der Enquete-Kommission zur Stärkung der Demokratie und des Parlamentarismus sollen die Maßnahmen umgesetzt werden, über die bereits Konsens erzielt worden ist. Dazu zählen: mehr Information für Abgeordnete sowie Öffentlichkeit und Weiterentwicklungen beim Gestaltungsprozess politischer Vorhaben und bei Konsultationen. Darüber hinaus soll die Diskussion über weitere Maßnahmen fortgesetzt werden. \#besserentscheiden und andere Organisationen haben dazu bereits Vorschläge ausgearbeitet.
+In Nachfolge der Enquete-Kommission zur Stärkung der Demokratie und des Parlamentarismus sollen die Maßnahmen umgesetzt werden, über die bereits Konsens erzielt worden ist. Dazu zählen: 
+
+* mehr Information für Abgeordnete sowie die Öffentlichkeit und 
+
+* Weiterentwicklungen bei der Gestaltung politischer Vorhaben und bei öffentlichen Konsultationen. 
+
+* Darüber hinaus soll die Diskussion über weitere Maßnahmen fortgesetzt werden. \#besserentscheiden und andere Organisationen haben dazu bereits Vorschläge ausgearbeitet.
 
 ## Vorgangsweise
 

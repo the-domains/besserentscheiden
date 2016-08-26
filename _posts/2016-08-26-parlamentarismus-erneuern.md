@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-26T11:42:00.748Z'
+datePublished: '2016-08-26T11:42:51.764Z'
 sourcePath: _posts/2016-08-26-parlamentarismus-erneuern.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-26T11:41:52.302Z'
+dateModified: '2016-08-26T11:42:51.451Z'
 title: Parlamentarismus erneuern
 id: bcde2bd7-cd22-461c-a3f3-36e8ac149be0
 publisher: {}

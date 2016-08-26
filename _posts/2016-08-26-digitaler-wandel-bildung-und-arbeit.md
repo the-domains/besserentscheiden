@@ -1,11 +1,12 @@
 ---
-datePublished: '2016-08-26T11:49:10.407Z'
+datePublished: '2016-08-26T11:51:08.884Z'
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-26T11:49:04.928Z'
+dateModified: '2016-08-26T11:51:03.831Z'
 title: 'Digitaler Wandel, Bildung und Arbeit'
+id: ea22dc3a-d100-4035-ba4a-63aac085fc8a
 publisher: {}
 description: Dieses Projekt ist in Vorbereitung
 starred: false

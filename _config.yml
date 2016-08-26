@@ -44,6 +44,6 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: '#besserentscheiden .'
+title: '#besserentscheiden'
 description: 'Demokratie beleben, Parlamente stärken.'
 purpose: []

@@ -1,21 +1,18 @@
 ---
-datePublished: '2016-08-24T20:37:37.848Z'
-sourcePath: _posts/2016-04-23-beteiligen-sie-sich-am-dialog.md
-inFeed: true
-authors: []
-hasPage: true
-keywords: []
-author: []
-via: {}
-dateModified: '2016-08-24T20:37:30.457Z'
+id: 14a9b1a2-0574-498a-a492-c8d688d85e90
+dateModified: '2016-08-26T09:59:06.792Z'
 title: Mitmachen
-publisher: {}
+datePublished: '2016-08-26T09:59:15.206Z'
+author: []
+hasPage: true
+inFeed: true
 description: >-
   Nehmen Sie mit uns Kontakt auf, wenn Sie #besserentscheiden unterstützen
   wollen: office@besserentscheiden.at
-inLanguage: null
-inNav: true
+publisher: {}
+via: {}
 starred: false
+sourcePath: _posts/2016-04-23-beteiligen-sie-sich-am-dialog.md
 url: beteiligen-sie-sich-am-dialog/index.html
 _type: Article
 

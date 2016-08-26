@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[#besserentscheiden .]]></title>
-        <description><![CDATA[#besserentscheiden .]]></description>
+        <title><![CDATA[#besserentscheiden]]></title>
+        <description><![CDATA[#besserentscheiden]]></description>
         <link>http://www.besserentscheiden.at/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Aug 2016 10:09:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2016 10:37:50 GMT</lastBuildDate>
         <atom:link href="http://www.besserentscheiden.at/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Digitaler Wandel und Politik]]></title>
@@ -26,6 +26,13 @@
             <link>http://www.besserentscheiden.at/was-ist-eine-pnyx-was-will-besserentscheiden/index.html</link>
             <guid isPermaLink="false">0aa562ca-c162-4bfa-881d-22ccdab73f53</guid>
             <pubDate>Wed, 24 Aug 2016 23:12:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mitmachen]]></title>
+            <description><![CDATA[<article><h1>Mitmachen</h1><p>Nehmen Sie mit uns Kontakt auf, wenn Sie #besserentscheiden unterstützen wollen: office@besserentscheiden.at</p></article>]]></description>
+            <link>http://www.besserentscheiden.at/mitmachen/index.html</link>
+            <guid isPermaLink="false">14a9b1a2-0574-498a-a492-c8d688d85e90</guid>
+            <pubDate>Fri, 26 Aug 2016 10:37:48 GMT</pubDate>
         </item>
     </channel>
 </rss>

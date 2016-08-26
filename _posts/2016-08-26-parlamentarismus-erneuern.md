@@ -1,15 +1,17 @@
 ---
-datePublished: '2016-08-26T11:45:03.648Z'
+datePublished: '2016-08-26T11:45:21.478Z'
+sourcePath: _posts/2016-08-26-parlamentarismus-erneuern.md
 inFeed: true
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-26T11:45:02.223Z'
+dateModified: '2016-08-26T11:45:09.999Z'
 title: Parlamentarismus erneuern
 publisher: {}
 description: Dieses Projekt ist in Vorbereitung
 starred: false
-sourcePath: _posts/2016-08-26-parlamentarismus-erneuern.md
-_type: Blurb
+url: parlamentarismus-erneuern/index.html
+_type: Article
 
 ---
 # Parlamentarismus erneuern

@@ -1,19 +1,19 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: Das Projekt ist in Vorbereitung.
-datePublished: '2016-08-26T11:38:24.957Z'
-dateModified: '2016-08-26T11:38:24.359Z'
+datePublished: '2016-08-26T11:41:51.672Z'
 sourcePath: _posts/2016-08-26-parlamentarismus-erneuern.md
+inFeed: true
+authors: []
+hasPage: true
+keywords: []
 author: []
 via: {}
+dateModified: '2016-08-26T11:41:37.793Z'
 title: Parlamentarismus erneuern
 id: bcde2bd7-cd22-461c-a3f3-36e8ac149be0
-authors: []
 publisher: {}
+description: Das Projekt ist in Vorbereitung.
+inLanguage: null
+inNav: false
 starred: false
 url: parlamentarismus-erneuern/index.html
 _type: Article
@@ -21,7 +21,7 @@ _type: Article
 ---
 # Parlamentarismus erneuern
 
-> Das Projekt ist in Vorbereitung.
+Das Projekt ist in Vorbereitung.
 
 ## Herausforderung
 

@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Dieses Projekt ist in Vorbereitung
-datePublished: '2016-08-26T11:35:58.465Z'
-dateModified: '2016-08-26T10:57:43.102Z'
+datePublished: '2016-08-26T11:38:35.244Z'
+dateModified: '2016-08-26T11:38:34.298Z'
 sourcePath: _posts/2016-04-11-digitaler-wandel-bildung-und-arbeit.md
 author: []
 via: {}

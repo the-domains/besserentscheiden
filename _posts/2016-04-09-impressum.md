@@ -1,18 +1,16 @@
 ---
-datePublished: '2016-08-24T22:24:01.665Z'
-sourcePath: _posts/2016-04-09-impressum.md
+datePublished: '2016-08-26T10:37:22.862Z'
+inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-24T22:24:01.090Z'
+dateModified: '2016-08-26T10:37:22.214Z'
 title: Impressum
 id: 520d178b-27c9-4e3a-91f7-18a4d8e10a5c
 publisher: {}
 description: 'Für den Inhalt verantwortlich: Andreas Kovar'
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+sourcePath: _posts/2016-04-09-impressum.md
+_type: Blurb
 
 ---
 # Impressum

@@ -31,9 +31,6 @@ navigation:
   - name: Offene Gesetzgebung
     id: c7e6e600-f712-4d30-b026-2f36ee30baf5
     type: content
-  - name: Parlamentarismus erneuern
-    id: bcde2bd7-cd22-461c-a3f3-36e8ac149be0
-    type: content
 favicon: null
 collections:
   - index:

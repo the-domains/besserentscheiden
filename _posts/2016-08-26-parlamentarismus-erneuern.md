@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-27T09:42:55.763Z'
+datePublished: '2016-08-27T10:26:38.249Z'
 sourcePath: _posts/2016-08-26-parlamentarismus-erneuern.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-27T09:42:55.472Z'
+dateModified: '2016-08-27T10:26:35.701Z'
 title: Parlamentarismus erneuern
 id: 4f263afb-ac50-4e3a-add7-e8cb616b1cfe
 publisher: {}
@@ -34,11 +34,11 @@ Kurz gesagt, es geht um ein neues Selbstverständnis und um die Arbeitsweise des
 
 ## Zielsetzung des Projekts
 
-In Nachfolge der Enquete-Kommission zur Stärkung der Demokratie und des Parlamentarismus sollen die Maßnahmen umgesetzt werden, über die bereits Konsens erzielt worden ist. Dazu zählen:
+In Nachfolge der parlamentarischen Enquete-Kommission zur Stärkung der Demokratie und des Parlamentarismus sollen die Maßnahmen umgesetzt werden, über die bereits politischer Konsens erzielt worden ist. Dazu zählen:
 
-1. mehr Information für Abgeordnete sowie die Öffentlichkeit und 
-2. Weiterentwicklungen bei der Gestaltung politischer Vorhaben und bei öffentlichen Konsultationen. 
-3. Darüber hinaus soll die Diskussion über weitere Maßnahmen fortgesetzt werden. \#besserentscheiden und andere Organisationen haben dazu bereits Vorschläge ausgearbeitet. 
+1. mehr Information für Abgeordnete sowie die Öffentlichkeit und
+2. Weiterentwicklungen bei der Gestaltung politischer Vorhaben und bei öffentlichen Konsultationen.
+3. Darüber hinaus soll die Diskussion über weitere Maßnahmen fortgesetzt werden. \#besserentscheiden und andere Organisationen haben dazu bereits Vorschläge ausgearbeitet.
 
 ## Vorgangsweise
 
@@ -46,7 +46,7 @@ Parteiübergreifend soll von Abgeordneten und Fachleuten die Umsetzung bereits b
 
 ## Projektstatus
 
-Derzeit laufen die Vorgespräche. 
+Derzeit laufen die Vorgespräche.
 
 \_\_\_\_\_\_
 

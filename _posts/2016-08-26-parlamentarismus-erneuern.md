@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-08-26T16:40:48.130Z'
+datePublished: '2016-08-26T16:41:00.777Z'
+inFeed: true
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-26T16:40:43.125Z'
+dateModified: '2016-08-26T16:40:59.822Z'
 title: Parlamentarismus erneuern
 id: 4f263afb-ac50-4e3a-add7-e8cb616b1cfe
 publisher: {}
@@ -12,10 +14,8 @@ description: >-
   Generationen.
 starred: false
 sourcePath: _posts/2016-08-26-parlamentarismus-erneuern.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: parlamentarismus-erneuern/index.html
+_type: Article
 
 ---
 # Parlamentarismus erneuern

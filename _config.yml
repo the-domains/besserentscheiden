@@ -34,9 +34,6 @@ navigation:
   - name: Parlamentarismus erneuern
     id: bcde2bd7-cd22-461c-a3f3-36e8ac149be0
     type: content
-  - name: 'Digitaler Wandel, Bildung und Arbeit'
-    id: aa316e26-99c2-4184-8e09-55656376f657
-    type: content
 favicon: null
 collections:
   - index:

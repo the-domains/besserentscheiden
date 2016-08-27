@@ -1,26 +1,22 @@
 ---
-id: 14a9b1a2-0574-498a-a492-c8d688d85e90
-dateModified: '2016-08-26T10:37:38.186Z'
-title: Mitmachen
-datePublished: '2016-08-26T10:37:48.445Z'
-author: []
+datePublished: '2016-08-26T16:42:50.722Z'
+sourcePath: _posts/2016-04-23-beteiligen-sie-sich-am-dialog.md
 inFeed: true
 hasPage: true
+author: []
+via: {}
+dateModified: '2016-08-26T16:42:37.504Z'
+title: Mitmachen
+id: 14a9b1a2-0574-498a-a492-c8d688d85e90
+publisher: {}
 description: >-
   Nehmen Sie mit uns Kontakt auf, wenn Sie #besserentscheiden unterstützen
   wollen: office@besserentscheiden.at
-publisher: {}
-via: {}
 starred: false
-sourcePath: _posts/2016-04-23-beteiligen-sie-sich-am-dialog.md
 url: mitmachen/index.html
 _type: Article
 
 ---
-# Mitmachen
-
-Nehmen Sie mit uns Kontakt auf, wenn Sie \#besserentscheiden unterstützen wollen: office@besserentscheiden.at
-
 # Mitmachen
 
 Nehmen Sie mit uns Kontakt auf, wenn Sie \#besserentscheiden unterstützen wollen: office@besserentscheiden.at

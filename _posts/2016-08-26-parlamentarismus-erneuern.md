@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-26T16:41:00.777Z'
+datePublished: '2016-08-26T16:44:49.418Z'
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-26T16:40:59.822Z'
+dateModified: '2016-08-26T16:44:48.604Z'
 title: Parlamentarismus erneuern
 id: 4f263afb-ac50-4e3a-add7-e8cb616b1cfe
 publisher: {}
@@ -12,8 +12,8 @@ description: >-
   Wir stehen vor enormen politischen Herausforderungen. Deren Bewältigung ist
   entscheidend für unsere Lebensqualität und die Lebensqualität der nächsten
   Generationen.
-starred: false
 sourcePath: _posts/2016-08-26-parlamentarismus-erneuern.md
+starred: false
 url: parlamentarismus-erneuern/index.html
 _type: Article
 

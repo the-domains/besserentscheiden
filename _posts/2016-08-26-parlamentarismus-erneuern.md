@@ -1,8 +1,8 @@
 ---
-datePublished: '2016-08-26T16:40:42.215Z'
+datePublished: '2016-08-26T16:40:48.130Z'
 author: []
 via: {}
-dateModified: '2016-08-26T16:40:36.480Z'
+dateModified: '2016-08-26T16:40:43.125Z'
 title: Parlamentarismus erneuern
 id: 4f263afb-ac50-4e3a-add7-e8cb616b1cfe
 publisher: {}

@@ -1,33 +1,36 @@
 ---
-datePublished: '2016-08-26T16:31:40.311Z'
-sourcePath: _posts/2016-08-26-parlamentarismus-erneuern.md
-inFeed: true
-hasPage: true
+datePublished: '2016-08-26T16:40:42.215Z'
 author: []
 via: {}
-dateModified: '2016-08-26T16:31:20.250Z'
+dateModified: '2016-08-26T16:40:36.480Z'
 title: Parlamentarismus erneuern
 id: 4f263afb-ac50-4e3a-add7-e8cb616b1cfe
 publisher: {}
-description: Dieses Projekt ist in Vorbereitung
+description: >-
+  Wir stehen vor enormen politischen Herausforderungen. Deren Bewältigung ist
+  entscheidend für unsere Lebensqualität und die Lebensqualität der nächsten
+  Generationen.
 starred: false
-url: parlamentarismus-erneuern/index.html
-_type: Article
+sourcePath: _posts/2016-08-26-parlamentarismus-erneuern.md
+inFeed: true
+hasPage: false
+inNav: false
+_type: MediaObject
 
 ---
 # Parlamentarismus erneuern
 
-Dieses Projekt ist in Vorbereitung
+> Dieses Projekt ist in Vorbereitung
 
-### Wir stehen vor enormen politischen Herausforderungen. Deren Bewältigung ist entscheidend für unsere Lebensqualität und die Lebensqualität der nächsten Generationen. 
+Wir stehen vor enormen politischen Herausforderungen. Deren Bewältigung ist entscheidend für unsere Lebensqualität und die Lebensqualität der nächsten Generationen.
 
-### Um zeitgerecht zu gute und von vielen akzeptierte Entscheidungen zu kommen, brauchen wir eine zielorientierte, sachliche und dialogorientierte Politik. Diese politische Erneuerung gilt es zu organisieren. 
+Um zeitgerecht zu gute und von vielen akzeptierte Entscheidungen zu kommen, brauchen wir eine zielorientierte, sachliche und dialogorientierte Politik. Diese politische Erneuerung gilt es zu organisieren.
 
 ## Herausforderung
 
 In einer deliberativen Demokratie kommt beiden Kammern des Parlaments automatisch die Rolle der zentralen Träger politischer Diskussionen zu. Um diese Funktion erfüllen zu können, braucht es eine Stärkung des Parlamentarismus. Wobei Nationalrat und Bundesrat formal bereits über alle Voraussetzungen verfügen, um diese Aufgabe erfüllen zu können. Es geht offensichtlich nur darum, sich als Institution neu zu erfinden und die gelebte Praxis zu verändern.
 
-Kurz gesagt, es geht um ein neues Selbstverständnis und um die Arbeitsweise des Parlaments. 
+Kurz gesagt, es geht um ein neues Selbstverständnis und um die Arbeitsweise des Parlaments.
 
 ## Zielsetzung des Projekts
 

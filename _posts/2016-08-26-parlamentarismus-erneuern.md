@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-27T10:26:38.249Z'
+datePublished: '2016-08-28T07:45:55.121Z'
 sourcePath: _posts/2016-08-26-parlamentarismus-erneuern.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-27T10:26:35.701Z'
+dateModified: '2016-08-28T07:45:32.438Z'
 title: Parlamentarismus erneuern
 id: 4f263afb-ac50-4e3a-add7-e8cb616b1cfe
 publisher: {}
@@ -24,11 +24,11 @@ _type: Article
 
 Wir stehen vor enormen politischen Herausforderungen. Deren Bewältigung ist entscheidend für unsere Lebensqualität und die Lebensqualität der nächsten Generationen.
 
-Um zeitgerecht zu guten und von vielen akzeptierten Entscheidungen zu kommen, brauchen wir eine sachliche, ziel- und dialogorientierte Politik. Diese politische Erneuerung gilt es konstruktiv zu organisieren.
+Um zeitgerecht zu guten und von vielen akzeptierten Entscheidungen zu kommen, brauchen wir eine sachliche, ziel- und dialogorientierte Politik. Diese politische Erneuerung gilt es konstruktiv zu organisieren. Das ist das Ziel dieses Projekts.
 
 ## Herausforderung
 
-In einer "diskutierenden Gesellschaft", einer deliberativen Demokratie kommt beiden Kammern des Parlaments automatisch die Rolle der zentralen Träger politischer Diskussionen zu. Um diese Funktion zu erfüllen, braucht es eine Stärkung des Parlamentarismus. Wobei Nationalrat und Bundesrat rechtlich formal bereits über alle Voraussetzungen verfügen, um diese Aufgabe zu übernehmen. Es geht nur darum, sich als Institution neu zu erfinden und die gelebte Praxis zu verändern.
+In einer "diskutierenden Gesellschaft", einer deliberativen Demokratie kommt beiden Kammern des Parlaments automatisch die Rolle der zentralen Träger politischer Diskussionen zu, die in Foren der Zivilgesellschaft, Landtagen und den Medien ihre Fortsetzung finden könnte. Um diese Funktion zu erfüllen, braucht es eine Stärkung des Parlamentarismus. Wobei Nationalrat und Bundesrat rechtlich formal bereits über alle Voraussetzungen verfügen, um diese Aufgabe zu übernehmen. Es geht einzig nur darum, sich als Institution neu zu erfinden und die gelebte Praxis zu verändern.
 
 Kurz gesagt, es geht um ein neues Selbstverständnis und um die Arbeitsweise des Parlaments.
 

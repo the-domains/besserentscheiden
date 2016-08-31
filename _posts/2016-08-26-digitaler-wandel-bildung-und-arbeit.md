@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-29T16:52:11.429Z'
+datePublished: '2016-08-29T16:52:49.129Z'
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-26T11:58:56.630Z'
+dateModified: '2016-08-29T16:52:48.572Z'
 title: 'Digitaler Wandel, Bildung und Arbeit'
 id: ea22dc3a-d100-4035-ba4a-63aac085fc8a
 publisher: {}

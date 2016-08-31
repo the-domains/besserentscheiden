@@ -4,7 +4,7 @@
         <description><![CDATA[#besserentscheiden]]></description>
         <link>http://www.besserentscheiden.at/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Aug 2016 16:52:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2016 17:04:23 GMT</lastBuildDate>
         <atom:link href="http://www.besserentscheiden.at/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Digitaler Wandel und Politik]]></title>
@@ -33,13 +33,6 @@
             <link>http://www.besserentscheiden.at/was-ist-eine-pnyx-was-will-besserentscheiden/index.html</link>
             <guid isPermaLink="false">0aa562ca-c162-4bfa-881d-22ccdab73f53</guid>
             <pubDate>Wed, 24 Aug 2016 23:12:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Digitaler Wandel, Bildung und Arbeit]]></title>
-            <description><![CDATA[<article><h1>Digitaler Wandel, Bildung und Arbeit</h1><p>Dieses Projekt ist in Vorbereitung</p></article>]]></description>
-            <link>http://www.besserentscheiden.at/digitaler-wandel-bildung-und-arbeit/index.html</link>
-            <guid isPermaLink="false">ea22dc3a-d100-4035-ba4a-63aac085fc8a</guid>
-            <pubDate>Mon, 29 Aug 2016 16:52:49 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-09-02T23:40:28.985Z'
+datePublished: '2016-09-02T23:55:40.192Z'
 sourcePath: _posts/2016-08-26-parlamentarismus-erneuern.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-02T23:40:28.372Z'
+dateModified: '2016-09-02T23:55:20.790Z'
 title: 'Demokratie sichern, Parlamentarismus erneuern'
 id: 4f263afb-ac50-4e3a-add7-e8cb616b1cfe
 publisher: {}

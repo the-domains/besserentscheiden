@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-09-02T23:28:19.929Z'
+datePublished: '2016-09-02T23:40:25.683Z'
 sourcePath: _posts/2016-08-26-parlamentarismus-erneuern.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-02T23:27:54.311Z'
+dateModified: '2016-09-02T23:40:10.897Z'
 title: 'Demokratie sichern, Parlamentarismus erneuern'
 id: 4f263afb-ac50-4e3a-add7-e8cb616b1cfe
 publisher: {}
@@ -26,7 +26,8 @@ Wir stehen vor enormen politischen Herausforderungen. Deren Bewältigung ist ent
 
 Um zeitgerecht zu guten und von vielen akzeptierten Entscheidungen zu kommen, brauchen wir eine sachliche, ziel- und dialogorientierte Politik. Diese politische Erneuerung gilt es konstruktiv zu organisieren. Das ist das Ziel dieses Projekts.
 
-Wenn wir uns gegen autoritäre Entwicklungen absichern wollen, müssen wir das Parlament stärken. Parteiräson darf dem nicht entgegenstehen. 
+Wenn wir uns gegen autoritäre Entwicklungen absichern wollen, müssen wir das Parlament stärken. Parteiräson darf dem nicht entgegenstehen.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/73616b3c-b567-4888-b211-fe66eacfb96c.gif)
 
 ## Herausforderung
 

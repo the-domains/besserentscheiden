@@ -1,4 +1,3 @@
-layout_spectrum: 0.9806295074522495
 typography_spectrum: 0.6747695591766387
 color:
   brandStrength: 0.495614
@@ -15,10 +14,13 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.9806295074522495
 analytics:
   twitter: null
   google: null
   facebook: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/41c3a739-dd3b-4931-9af1-ce2dad6271ca.gif
 name: '#besserentscheiden'
 cta:
   version: null
